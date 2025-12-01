@@ -36,6 +36,7 @@ The model was post-trained from [Qwen2.5-14B-Instruct](https://huggingface.co/Qw
   * `qwen2.5-14b-prompt-enhancer-lora-stage2/`: checkpoint from Stage 2 (not included)
   * `video_cache/`: Sora videos generated in Stage 2
   * `stage2_traces.json`: a log of simple prompts sampled at each step, detailed prompts generated, and rewards earned
+* `VisionReward_video/`: files required for VisionReward scoring
 * `train_stage1.py`: training script for Stage 1
 * `train_stage2.py`: training script for Stage 2
 * `qualitative_eval.py`: inference from local checkpoints
