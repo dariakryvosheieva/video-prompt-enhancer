@@ -1,0 +1,402 @@
+{
+    "pair_01": {
+      "lay": "a beautiful forest sunrise",
+      "elaborate": "Cinematic drone shot, **style:** hyperrealistic, vibrant. **Scene:** A misty pine forest at dawn. **Camera:** Slow, smooth crane shot ascending from the foggy forest floor, rising above the canopy to reveal the sun cresting over a distant mountain peak. **Lighting:** Warm golden hour light beams (volumetric) piercing through the fog. **Mood:** Serene, majestic. **Details:** Dewdrops glistening on leaves, a small deer looks up as the camera passes."
+    },
+    "pair_02": {
+      "lay": "a cyberpunk city at night",
+      "elaborate": "# NEO-KYOTO DRIFT\n- [ #1 0.0s ] ACTION:{Rain streaks down window} | CAMERA:{ECU; locked-off; focus pull} | SUBJECT:{Water droplets on glass} | SCENE:{View from high-rise apartment} | LIGHT:{Neon signs (magenta/cyan) blur in BG} | GRADE:{High-contrast, saturated neon, crushed blacks} | AUDIO:{ASMR rain tap; distant siren}\n- [ #2 1.5s ] ACTION:{Focus pull to BG} | CAMERA:{Static} | SUBJECT:{Spinning holographic ad for 'KIRI'} | SCENE:{Vast cyberpunk city, flying 'spinner' vehicles} | LIGHT:{Billboards provide key light, rain reflects neon} | GRADE:{Cyberpunk teal/magenta} | CAM:{Deep focus} | AUDIO:{Siren louder; BGM: synthwave bassline fades in}\n- [ #3 3.0s ] ACTION:{A police spinner vehicle flies past camera, close} | CAMERA:{Fast whip pan L-R} | SUBJECT:{Spinner vehicle} | SCENE:{City canyons} | LIGHT:{Headlights create lens flare} | GRADE:{Motion blur} | AUDIO:{Loud 'whoosh' SFX; siren peaks}"
+    },
+    "pair_03": {
+      "lay": "a dragon flying over a castle",
+      "elaborate": "Epic cinematic wide shot, **style** reminiscent of high-fantasy film (e.g., Game of Thrones). **Subject:** A colossal red-scaled dragon with scales reflecting the setting sun. **Action:** The dragon banks sharply around the main spire of a towering, gothic-style castle perched on a cliff. **Camera:** A sweeping FPV drone shot that follows the dragon's movement, diving and rolling with it. **Lighting:** Dramatic 'magic hour' light, with long shadows and a fiery orange sky. **Details:** Banners on the castle ramparts whipping in the wind; small birds scattering."
+    },
+    "pair_04": {
+      "lay": "a cat playing with yarn",
+      "elaborate": "Cozy, domestic scene. **Style:** High-quality, shallow depth-of-field, 8K. **Subject:** A fluffy, orange tabby kitten. **Action:** The kitten playfully bats at a bright red ball of yarn on a hardwood floor, getting tangled. **Camera:** Low-angle, tracking the kitten's paws, with quick, playful push-ins. **Lighting:** Warm, soft afternoon light from a window, casting long shadows. **Details:** Dust motes visible in the sunbeams, sharp focus on the kitten's claws and the texture of the yarn."
+    },
+    "pair_05": {
+      "lay": "a clock melting in the desert",
+      "elaborate": "Surrealist macro shot, **style** of Salvador Dalí, hyperrealistic 8K rendering. **Subject:** A bronze pocket watch draped over a dead, skeletal tree branch. **Action:** The watch visibly melts and drips, the liquid metal pooling on the cracked desert floor below. **Scene:** A vast, empty desert at twilight. **Lighting:** A single, starkly-lit, impossibly large full moon casts long, sharp shadows. **Mood:** Dreamlike, unsettling, quiet."
+    },
+    "pair_06": {
+      "lay": "a cute robot finding a flower",
+      "elaborate": "Pixar-style 3D animation. **Subject:** A small, rusty robot (like Wall-E) with large, expressive binocular eyes. **Scene:** A post-apocalyptic junkyard. **Action:** The robot's metal detector hand beeps. It digs, pulling out a single, tiny green sprout. Its eyes widen and dilate. **Camera:** Starts with a tight CU on the robot's hand, then pulls back to a medium shot to capture its \"face.\" **Lighting:** Soft, overcast day, with a warm glow emanating from the sprout. **Mood:** Heartwarming, hopeful."
+    },
+    "pair_07": {
+      "lay": "someone making a pizza",
+      "elaborate": "Commercial-grade food videography, ultra-macro, high-speed (120fps). **Action:** A 'flying ingredients' shot. Flour explodes in a white cloud, followed by slow-motion (phantom cam) tossing of pizza dough, which spins and stretches. Then, a cascade of vibrant red tomato sauce, followed by fresh mozzarella and basil leaves landing on the sauce. **Lighting:** Bright, clean studio lighting, high key. **Camera:** Macro probe lens, dynamic motion control rig, very shallow depth of field. **Style:** Clean, appetizing, dynamic."
+    },
+    "pair_08": {
+      "lay": "a hummingbird flying",
+      "elaborate": "# EMERALD DART\n- [ #1 0.0s ] ACTION:{Hummingbird hovers} | CAMERA:{Macro probe lens; 1000fps slow-motion} | SUBJECT:{Male Ruby-throated Hummingbird} | SCENE:{Feeding from a vibrant red hibiscus flower} | LIGHT:{Bright, natural sunlight, backlit} | GRADE:{Hyper-saturated, tack-sharp focus on bird, soft bokeh BG} | AUDIO:{ASMR wing-beat 'thrum'}\n- [ #2 1.0s ] ACTION:{Bird sips nectar, head tilts} | CAMERA:{Static macro} | SUBJECT:{ECU on eye; iridescent feathers catch light} | SCENE:{Shallow DOF on flower petal} | LIGHT:{Specular highlights on nectar droplet} | GRADE:{Extreme detail} | AUDIO:{Faint 'sip' sfx}\n- [ #3 2.0s ] ACTION:{Bird darts away instantly, L->R} | CAMERA:{Static} | SUBJECT:{Leaves frame} | SCENE:{Flower bobbles} | LIGHT:{Natural} | GRADE:{Extreme motion blur on exit} | AUDIO:{Sharp 'zip' SFX; wing thrum fades}"
+    },
+    "pair_09": {
+      "lay": "a rainy day in a cozy cafe",
+      "elaborate": "# COFFEE & CONDENSATION\n- [ #1 0.0s ] ACTION:{Rain streaks down large window} | CAMERA:{MS; locked-off; shot from inside} | SUBJECT:{Window pane with condensation} | SCENE:{Cozy cafe interior} | LIGHT:{Warm, low-key interior light (tungsten); cold, blue exterior light} | GRADE:{Anamorphic look, soft bokeh, 'bookstore' aesthetic} | AUDIO:{ASMR rain, soft jazz BGM}\n- [ #2 1.5s ] ACTION:{Focus racks from window to interior} | CAMERA:{Focus pull} | SUBJECT:{A person's hands holding a steaming ceramic mug} | SCENE:{Wooden table} | LIGHT:{Warm key light on mug} | GRADE:{Shallow DOF} | AUDIO:{Jazz continues, faint page turn sfx}\n- [ #3 3.0s ] ACTION:{Steam rises from mug} | CAMERA:{CU on mug} | SUBJECT:{Steam} | SCENE:{Blurred cafe BG} | LIGHT:{Backlit steam} | GRADE:{Dreamy, halation} | AUDIO:{Jazz swells slightly}"
+    },
+    "pair_10": {
+      "lay": "dinosaur running in a jungle",
+      "elaborate": "Hyperrealistic CGI, **style** of a BBC nature documentary. **Subject:** A pack of three Velociraptors. **Scene:** Dense, humid, prehistoric jungle (Cretaceous period). **Action:** The raptors move with bird-like agility, communicating with chirps, tracking prey. **Camera:** 'Stabilized' handheld, as if a wildlife cameraman is tracking them, hiding behind giant ferns. **Details:** Feathers on the raptors, mud flicking from their claws, lens flare through the canopy, insects buzzing. **Mood:** Tense, immersive, realistic."
+    },
+    "pair_11": {
+      "lay": "a haunted house",
+      "elaborate": "Atmospheric horror, **style** of 'The Conjuring'. **Scene:** The top of a dusty, moonlit staircase in a dilapidated Victorian mansion. **Camera:** Slow, creeping dolly-in towards a closed door at the end of the hall. **Action:** The door handle slowly turns. The door creaks open, revealing only impenetrable darkness. **Lighting:** High-contrast chiaroscuro, lit only by moonlight through a window. **Mood:** High suspense, dread. **Details:** Cobwebs, peeling wallpaper, floorboards creaking."
+    },
+    "pair_12": {
+      "lay": "a beautiful beach sunset",
+      "elaborate": "Time-lapse, wide-angle shot. **Scene:** A tropical beach with white sand and turquoise water. **Action:** The sun sets over the horizon, painting the sky in vibrant oranges, purples, and reds. Clouds move quickly. The tide slowly recedes. **Camera:** Static, locked-off on a tripod. **Grade:** High dynamic range (HDR), extremely saturated colors, smooth motion blur on clouds and waves."
+    },
+    "pair_13": {
+      "lay": "a car chase in a city",
+      "elaborate": "Gritty 1970s film style, high-speed car chase. **Subject:** A 1970 Dodge Challenger vs. a 1971 Ford Mustang. **Scene:** Narrow, sun-baked streets of San Francisco. **Action:** Cars trade paint, fishtail around corners, hubcaps fly off. **Camera:** Low-angle bumper cams, handheld shots from inside the car (driver's tense face), and long-lens telephoto shots from a 'helicopter' to compress the action. **Grade:** Desaturated, high-contrast, heavy film grain, anamorphic lens flares. **Audio:** Roaring V8 engines, squealing tires."
+    },
+    "pair_14": {
+      "lay": "a monster under the bed",
+      "elaborate": "Suspenseful horror sequence. **Style:** Atmospheric, high-contrast. **Scene:** A child's bedroom, 3 AM. Only light is from a cracked doorway and a nightlight. **Camera:** Extremely low-angle shot, at floor level, pointed at the dark void under the bed. **Action:** A small red ball rolls out from under the bed. It stops. After a 2-second pause, a long, pale, three-jointed finger slowly emerges from the darkness and taps the ball. **Grade:** Saturated blues/blacks, high-contrast. **Audio:** Creaking house, faint child's breathing, sharp 'tap' SFX."
+    },
+    "pair_15": {
+      "lay": "a surreal pink and blue landscape",
+      "elaborate": "Vaporwave aesthetic animation. **Scene:** An infinite grid plane receding to a magenta wireframe mountain range. A turquoise sun sets. **Subject:** A classical Roman bust (marble) glides slowly across the grid. **Details:** Reflections of neon palm trees in a non-existent chrome floor. **Camera:** Slow, continuous dolly shot, perpendicular to the bust's motion. **Grade:** Heavy VHS-style filter, chromatic aberration, scan lines, soft glow. **Audio:** Slowed-down, reverb-heavy 80s pop music (Muzak)."
+    },
+    "pair_16": {
+      "lay": "a clay person walking",
+      "elaborate": "High-quality stop-motion claymation, **style** of Laika/Aardman. **Subject:** A small, nervous-looking clay character with visible thumbprints in the clay. **Scene:** A whimsical, oversized kitchen. **Action:** The character carefully climbs a stack of giant sugar cubes to reach a countertop. **Lighting:** Warm, practical lighting, creating realistic, soft shadows. **Camera:** Locked-off medium shot, slight 'frame-jitter' inherent to stop-motion. **Details:** Fabric texture on the character's clothes, glistening 'sugar' texture."
+    },
+    "pair_17": {
+      "lay": "a lonely astronaut in space",
+      "elaborate": "# VOIDWALKER\n- [ #1 0.0s ] ACTION:{Astronaut tumbles, very slow} | CAMERA:{WS; locked-off} | SUBJECT:{Astronaut in EMU suit, tether broken} | SCENE:{Deep space; Earth is a small, bright marble in far BG} | LIGHT:{Harsh, single-source sun, casting long shadows} | GRADE:{Crushed blacks, high-contrast, '2001' aesthetic} | AUDIO:{ASMR: terrified breathing inside helmet}\n- [ #2 2.0s ] ACTION:{Astronaut reaches out hand} | CAMERA:{Dolly-in to CU on helmet} | SUBJECT:{Hand reaching towards camera/Earth} | SCENE:{Inside helmet, a single tear floats in zero-g} | LIGHT:{Sun glint on visor, small LED dashboard lights} | GRADE:{Reflections on visor} | AUDIO:{Breathing hitches; faint comms static: \"Mayday... anyone...\"}"
+    },
+    "pair_18": {
+      "lay": "a spider spinning a web",
+      "elaborate": "Extreme macro videography, **style** of a BBC Earth documentary. **Subject:** An orb-weaver spider. **Action:** The spider meticulously pulls a single strand of silk from its spinneret, visible in microscopic detail. **Scene:** Between two green blades of grass. **Lighting:** Backlit by early morning sun, making the new web strands glow like fiber optics. **Details:** Tiny morning dew droplets are visible on the web. **Camera:** Macro probe lens, static, tack-sharp focus on the spider's spinneret."
+    },
+    "pair_19": {
+      "lay": "a 1920s jazz club",
+      "elaborate": "1920s 'Great Gatsby' aesthetic. **Scene:** A smoky, opulent speakeasy. **Subjects:** Flapper girls dancing the Charleston, a lively jazz quintet on a small stage. **Action:** Dancers move in a blur of beads and fringe. The trumpet player hits a high note. A bartender mixes a cocktail. **Camera:** Dynamic gimbal shot, weaving through the crowd, catching laughter and movement. **Grade:** Warm, saturated, heavy film grain (shot on 16mm), lens halation around the bare-bulb lights. **Audio:** Diegetic, loud, upbeat 1920s jazz music."
+    },
+    "pair_20": {
+      "lay": "a magical, glowing forest",
+      "elaborate": "Fantasy concept art style, cinematic matte painting. **Scene:** A dense, ancient forest at night. **Subject:** Bioluminescent mushrooms, glowing blue and purple, pulsing slowly. **Action:** A mystical white stag with glowing antlers steps into a clearing. **Camera:** Slow, magical push-in, low to the ground. **Details:** Fireflies/glowing particles drift in the air, light reflects off a small stream. **Mood:** Enchanted, serene, mysterious."
+    },
+    "pair_21": {
+      "lay": "a scientist in a lab",
+      "elaborate": "# BREAKTHROUGH\n- [ #1 0.0s ] ACTION:{CU on bubbling test tube} | CAMERA:{Macro CU} | SUBJECT:{Vibrant blue liquid boiling} | SCENE:{Sterile, modern lab} | LIGHT:{Fluorescent overheads, blue glow from liquid} | GRADE:{Clean, high-tech, cool tones} | AUDIO:{ASMR bubbling}\n- [ #2 1.0s ] ACTION:{Scientist (40s, female, safety goggles) watches intently} | CAMERA:{MS, over-the-shoulder of test tube} | SUBJECT:{Scientist's face, reflection of liquid in goggles} | SCENE:{Lab bench with complex equipment} | LIGHT:{Key light on face} | GRADE:{Shallow DOF} | AUDIO:{Computer beep SFX}\n- [ #3 2.5s ] ACTION:{Scientist's eyes widen, a slow smile} | CAMERA:{ECU on eyes} | SUBJECT:{Micro-expression of realization} | SCENE:{Goggle reflection} | LIGHT:{Catchlight in eye} | GRADE:{Tack sharp focus} | AUDIO:{BGM swell, 'eureka' motif}"
+    },
+    "pair_22": {
+      "lay": "a dog playing fetch in a park",
+      "elaborate": "Vibrant, cheerful video. **Subject:** A golden retriever, ecstatic. **Scene:** A sunny, green park. **Action:** The dog bounds in slow-motion (120fps) towards the camera, ears flapping, to catch a red frisbee. **Camera:** Low-angle tracking shot, moving backward. **Lighting:** Bright, natural sunlight. **Grade:** Highly saturated, warm tones, high-key. **Details:** Blades of grass flicking up, dog's tongue lolling."
+    },
+    "pair_23": {
+      "lay": "a medieval knight fighting",
+      "elaborate": "Gritty, realistic medieval combat. **Style:** 'Game of Thrones' Battle of the Bastards aesthetic. **Subject:** A knight in full plate armor, muddy and dented. **Action:** The knight is in a chaotic forest battle, exchanging heavy, desperate blows with an axe-wielding opponent. **Camera:** Handheld, shaky-cam, close-quarters, over-the-shoulder. **Details:** Mud splatters on the camera lens, labored breathing, clang of steel. **Grade:** Desaturated, cool-toned, high-contrast, motion blur."
+    },
+    "pair_24": {
+      "lay": "a city underwater",
+      "elaborate": "Surreal, post-apocalyptic scene. **Style:** Hyperrealistic CGI. **Scene:** The ruins of New York City (Times Square) submerged in clear, deep ocean water. **Action:** A massive blue whale swims slowly down what was once Broadway. Schools of fish dart through submerged taxis. **Camera:** Slow, majestic drone shot (as if from a submarine). **Lighting:** Sunlight filters down from the surface, creating dappled, 'caustic' light patterns on the buildings. **Mood:** Haunting, serene, beautiful decay."
+    },
+    "pair_25": {
+      "lay": "an old wizard in his tower",
+      "elaborate": "High-fantasy, 'Lord of the Rings' style. **Scene:** A circular, stone room at the top of a tower, filled with ancient, leather-bound books, astrolabes, and glowing potions. **Subject:** An old wizard with a long white beard (Dumbledore/Gandalf type). **Action:** The wizard pores over an ancient map, tracing a line with his finger, which glows with a soft, magical light. **Camera:** Slow, rotating gimbal shot, orbiting the wizard and his desk. **Lighting:** Warm, low-key, lit by candlelight and the magical glow. **Details:** Dust motes, arcane symbols carved into the desk."
+    },
+    "pair_26": {
+      "lay": "a train in the mountains",
+      "elaborate": "Cinematic travel video, **style** of 'Wes Anderson'. **Scene:** A vintage, bright red train traveling through the Swiss Alps. **Camera:** A perfectly symmetrical, static wide shot from a facing hillside. **Action:** The train passes through the frame, L->R. **Grade:** Saturated, high-contrast, specific color palette (red, white, blue-sky). **Details:** Perfectly centered, no camera movement. **Audio:** Clickety-clack of the train, yodeling in the distance."
+    },
+    "pair_27": {
+      "lay": "a futuristic car flying",
+      "elaborate": "Sleek, sci-fi concept video. **Style:** 'Blade Runner 2049' aesthetic, clean, minimalist. **Subject:** A chrome 'spinner' vehicle with no visible propulsion. **Scene:** Flying through a dense, foggy, futuristic city composed of brutalist architecture. **Action:** The car glides silently, its red taillights disappearing into the fog. **Camera:** Slow, atmospheric tracking shot. **Lighting:** Diffuse, overcast light, with the car's lights cutting through the fog. **Mood:** Dystopian, quiet, cold."
+    },
+    "pair_28": {
+      "lay": "a person walking in the rain",
+      "elaborate": "Film noir aesthetic, 1940s style. **Scene:** A cobblestone street at night. **Subject:** A man in a trench coat and fedora, seen from behind. **Action:** The man walks away from the camera, his silhouette illuminated by a single, foggy streetlamp. **Camera:** Static, low-angle. **Lighting:** High-contrast, chiaroscuro, 'God rays' from the lamp in the rain/fog. **Grade:** Black and white, heavy grain, deep blacks. **Details:** Reflections on the wet cobblestones."
+    },
+    "pair_29": {
+      "lay": "a whale jumping out of the water",
+      "elaborate": "BBC 'Planet Earth' style, 4K slow-motion. **Subject:** A humpback whale. **Action:** The whale breaches, exploding from the ocean in a spectacular display. The shot captures the full breach in 500fps slow-motion, water cascading off its body. **Camera:** Gyro-stabilized shot from a boat, telephoto lens. **Lighting:** Bright, natural sunlight, creating rainbows in the sea spray. **Details:** Barnacles visible on the whale's skin, sharp focus."
+    },
+    "pair_30": {
+      "lay": "a giant robot in a city",
+      "elaborate": "Kaiju/Mecha battle, **style** of 'Pacific Rim'. **Subject:** A 100-meter-tall Jaeger robot. **Scene:** Downtown Tokyo, at night, in a typhoon. **Action:** The robot lands a massive, rocket-powered punch on an unseen enemy. **Camera:** Low-angle 'worm's-eye' view, looking up, to emphasize scale. **Details:** Rain lashing, buildings collapsing, neon signs flickering and shorting out, sparks from the impact."
+    },
+    "pair_31": {
+      "lay": "a desert oasis",
+      "elaborate": "Hyperrealistic, 'Lawrence of Arabia' style epic cinematography. **Scene:** A vast, rolling sand dune desert (Sahara). **Camera:** An extreme wide shot, using a long telephoto lens to compress the perspective. **Action:** A tiny caravan of camels and people, silhouetted, moves slowly across a distant dune. **Lighting:** Harsh, midday sun, creating intense heat-haze/mirage effects on the horizon. **Grade:** Warm, golden tones, high-contrast."
+    },
+    "pair_32": {
+      "lay": "a butterfly landing on a flower",
+      "elaborate": "Extreme macro, shallow depth-of-field. **Subject:** A monarch butterfly. **Scene:** A bright purple milkweed flower. **Action:** The butterfly, in 240fps slow-motion, lands delicately on the flower, its wings gently closing. **Camera:** Macro-slider shot, moving parallel to the flower. **Lighting:** Soft, natural, overcast day. **Details:** Pollen particles visible on the flower petals and the butterfly's legs. **Grade:** Vibrant, saturated colors, dreamy bokeh background."
+    },
+    "pair__33": {
+      "lay": "a volcano erupting",
+      "elaborate": "Terrifying, awe-inspiring nature footage. **Scene:** The caldera of an active volcano at night. **Camera:** Heat-resistant drone shot, hovering dangerously close. **Action:** The volcano erupts in a massive explosion. A pyroclastic flow rushes down the side. Fountains of lava shoot hundreds of feet in the air. **Lighting:** All light comes from the glowing-hot lava and explosions. **Details:** Ash clouds, lightning (dirty thunderstorm) within the ash cloud. **Audio:** Deep, powerful rumbles and cracks."
+    },
+    "pair_34": {
+      "lay": "a child learning to ride a bike",
+      "elaborate": "Nostalgic, heartwarming video, 1990s style. **Subject:** A 6-year-old child on a bike with training wheels. **Scene:** A suburban, tree-lined sidewalk. **Action:** A parent runs behind, holding the seat. The parent lets go, and the child wobbles but stays upright, a look of pure joy on their face. **Camera:** Handheld 'dad-cam' style, slight zoom-ins. **Grade:** Shot on 8mm film, light leaks, film grain, slightly desaturated, warm cast. **Mood:** Nostalgic, proud."
+    },
+    "pair_35": {
+      "lay": "a chef cooking in a kitchen",
+      "elaborate": "High-energy, 'Chef's Table' style. **Scene:** A bustling, high-end restaurant kitchen (stainless steel). **Subject:** A focused, intense chef. **Action:** The chef meticulously plates a complex dish, using tweezers. In the background, flames erupt from pans (sautéing). **Camera:** Gimbal, follows the chef's hands, very close. **Lighting:** High-contrast, dramatic, with warm 'heat lamp' lights. **Details:** Steam rising, sweat on the chef's brow."
+    },
+    "pair_36": {
+      "lay": "a rocket launching",
+      "elaborate": "# TITAN ASCENT\n- [ #1 0.0s ] ACTION:{Extreme CU on engine ignition} | CAMERA:{High-speed, heat-resistant, locked-off} | SUBJECT:{Flames and shockwaves (Mach diamonds)} | SCENE:{Launchpad} | LIGHT:{Intense, bright orange glow} | GRADE:{Vibrating, overexposed} | AUDIO:{DEAFENING ROAR}\n- [ #2 1.5s ] ACTION:{Rocket slowly ascends} | CAMERA:{Long-lens tracking shot, from miles away} | SUBJECT:{SpaceX Falcon Heavy} | SCENE:{Blue sky} | LIGHT:{Bright sunlight} | GRADE:{Clear, sharp} | AUDIO:{Distant rumble}\n- [ #3 3.0s ] ACTION:{Rocket clears launch tower} | CAMERA:{Drone shot, ascending alongside rocket (at a safe distance)} | SUBJECT:{Rocket gaining speed} | SCENE:{View of Florida coastline} | LIGHT:{Natural} | GRADE:{Epic, wide} | AUDIO:{Rumble fades, BGM: triumphant orchestral score swells}"
+    },
+    "pair_37": {
+      "lay": "a glass of water shattering",
+      "elaborate": "Extreme slow-motion, 'Phantom' camera style. **Subject:** A crystal wine glass. **Action:** A pellet hits the glass, and it shatters. The shot is 50,000fps, showing every micro-fracture spiderwebbing, and the water holding the glass's shape for a fraction of aS second before exploding outwards. **Lighting:** Bright, cold, studio key light. **Camera:** Static, macro. **Grade:** Scientific, analytical, clear."
+    },
+    "pair_38": {
+      "lay": "a field of flowers",
+      "elaborate": "Dutch painting aesthetic, time-lapse. **Scene:** A field of tulips in Holland. **Action:** Over 12 hours (condensed to 10 seconds), the tulips open for the sun, track it across the sky, and close at dusk. **Camera:** Slow, 180-degree robotic arc, very low to the ground. **Lighting:** Natural, changing light, from cool dawn to warm golden hour to blue twilight. **Grade:** Hyper-saturated, painterly."
+    },
+    "pair_39": {
+      "lay": "an old pirate ship in a storm",
+      "elaborate": "Epic, dramatic CGI, **style** of 'Pirates of the Caribbean'. **Subject:** A 17th-century galleon (like the Black Pearl). **Scene:** A monstrous, rogue wave in the middle of the dark ocean. **Action:** The ship struggles to climb the face of the wave, rain and spray lashing the deck. **Camera:** 'Helicopter' shot, circling the ship, struggling against the 'wind'. **Lighting:** Flashes of lightning illuminate the scene. **Details:** Tattered sails, men scrambling in the rigging."
+    },
+    "pair_40": {
+      "lay": "a couple dancing in Paris",
+      "elaborate": "Romantic, cinematic, **style** of 'La La Land'. **Subject:** A man and woman in vintage (1950s) clothing. **Scene:** A bridge over the Seine at night, Eiffel Tower sparkling in the background. **Action:** The couple performs a graceful, choreographed waltz. **Camera:** Smooth, sweeping crane shot that rises up and over them. **Grade:** Teal and orange, high-saturation, anamorphic lens flares, soft focus. **Mood:** Dreamy, romantic."
+    },
+    "pair_41": {
+      "lay": "a ninja on a roof",
+      "elaborate": "Stealth action, stylized, **style** of 'Sin City'. **Scene:** A gothic, moonlit rooftop (like a cathedral). **Subject:** A ninja, crouched, perfectly still. **Action:** The ninja's head snaps up. In one fluid, impossibly fast motion, they draw a katana and deflect a shuriken, which sparkles as it spins away. **Camera:** Static, extreme low-angle. **Grade:** High-contrast black and white, with selective color (the red hilt of the katana). **Details:** Rain, sharp focus on the blade."
+    },
+    "pair_42": {
+      "lay": "an old man on a park bench",
+      "elaborate": "Character study, cinematic. **Subject:** An 80-year-old man, face full of wrinkles, feeding pigeons. **Scene:** A park in autumn, leaves falling. **Action:** The man smiles gently as a pigeon lands on his hand. **Camera:** Tight CU on his face, then rack focus to the pigeon in his hand. **Lighting:** Soft, overcast, 'flat' light. **Grade:** Desaturated, soft, melancholy. **Mood:** Reflective, peaceful."
+    },
+    "pair_43": {
+      "lay": "a busy train station",
+      "elaborate": "Time-lapse, 'Samsara' / 'Koyaanisqatsi' style. **Scene:** Grand Central Terminal, NYC. **Camera:** High, wide-angle, locked-off. **Action:** Over several hours, people and light move through the station. People blur into streams of motion, while the station's architecture remains static. The 'God rays' from the windows sweep across the floor. **Mood:** Hypnotic, commentary on the 'flow' of humanity."
+    },
+    "pair_44": {
+      "lay": "a cell dividing",
+      "elaborate": "Scientific, abstract, microscopic video. **Style:** Hyper-detailed CGI rendering. **Subject:** A single biological cell. **Action:** The process of mitosis, sped up. Chromosomes (glowing) pull apart, and the cell membrane pinches, splitting into two identical daughter cells. **Camera:** 'Microscope' view, static. **Grade:** Vibrant, 'unreal' colors (e.g., blue cell body, red nucleus, green chromosomes) to differentiate parts. **Mood:** Educational, wondrous."
+    },
+    "pair_45": {
+      "lay": "a book with glowing letters",
+      "elaborate": "Fantasy macro shot. **Subject:** An ancient, leather-bound book. **Scene:** A dark, dusty library. **Action:** The book opens on its own. The camera pushes in on the text. The ink-written letters begin to glow, lift off the page as golden particles, and swarm. **Camera:** Macro probe lens, snaking over the page. **Lighting:** Lit only by the glowing text. **Mood:** Magical, mysterious."
+    },
+    "pair_46": {
+      "lay": "an abstract spinning cube",
+      "elaborate": "Minimalist motion graphics. **Subject:** A perfect, mirror-finish cube. **Scene:** An infinite white void (the 'cyc' or 'infinity room'). **Action:** The cube rotates slowly and perfectly on one corner. **Camera:** Slow, continuous, 360-degree arc shot. **Lighting:** Clean, soft studio lighting, creating beautiful, shifting reflections on the cube. **Grade:** Perfectly clean, no grain. **Mood:** Mesmerizing, serene, high-tech."
+    },
+    "pair_47": {
+      "lay": "a surfer riding a big wave",
+      "elaborate": "High-adrenaline, GoPro FPV style. **Scene:** 'Jaws' (Peahi), Maui. A monstrous, 50-foot wave. **Subject:** A pro surfer. **Camera:** Point-of-view, mounted on the surfer's board/helmet. **Action:** The surfer drops in, the camera gets 'tubed' (inside the barrel of the wave), with water vortexing all around. **Grade:** Saturated blues, high-contrast. **Details:** Water droplets on the lens. **Audio:** Roar of the wave."
+    },
+    "pair_48": {
+      "lay": "a person walking on Mars",
+      "elaborate": "Sci-fi, cinematic realism. **Subject:** An astronaut in a realistic, near-future Mars suit (like 'The Martian'). **Scene:** The surface of Mars, with red sand, craters, and a thin, pink sky. **Action:** The astronaut takes a slow, heavy 'bunny hop' step in the low gravity. **Camera:** Wide shot, gimbal, tracking. **Lighting:** Harsh, unfiltered sunlight. **Details:** Fine red dust kicks up and hangs in the air. **Mood:** Isolated, pioneering."
+    },
+    "pair_49": {
+      "lay": "a 1950s diner",
+      "elaborate": "Nostalgic, stylized. **Scene:** A classic American diner, 1950s. **Details:** Neon lights, checkered floor, jukebox, red vinyl booths. **Action:** A waitress on roller skates glides by, holding a tray with a milkshake. **Camera:** Low-angle gimbal, follows the waitress. **Grade:** Saturated 'Technicolor' look, warm tones, halation on the neon. **Audio:** 1950s rock and roll (e.g., Chuck Berry) playing on the jukebox."
+    },
+    "pair_50": {
+      "lay": "a baby laughing",
+      "elaborate": "Intimate, high-resolution portrait. **Subject:** A 9-month-old baby. **Action:** The baby looks just off-camera (at a parent) and erupts in a genuine, joyful, belly-laugh. **Camera:** Tight CU on the baby's face, 120fps slow-motion. **Lighting:** Soft, natural, window light. **Grade:** Warm, high-key, soft-focus. **Mood:** Pure joy, heartwarming."
+    },
+    "pair_51": {
+      "lay": "a person meditating on a mountain",
+      "elaborate": "Spiritual, majestic. **Subject:** A person in simple robes, sitting in the lotus position. **Scene:** The very peak of a mountain in the Himalayas, above the clouds. **Action:** The person is perfectly still, meditating, as clouds flow around the peak far below (time-lapse). **Camera:** Slow, 360-degree 'drone' orbit. **Lighting:** Clear, high-altitude-sun. **Mood:** Transcendent, peaceful, epic scale."
+    },
+    "pair_52": {
+      "lay": "a World War 2 battle",
+      "elaborate": "Gritty, chaotic, 'Saving Private Ryan' style. **Scene:** Normandy beach landing (D-Day). **Action:** Soldiers run from a Higgins boat, explosions rock the 'camera'. **Camera:** Handheld, shaky, 'on-the-ground' perspective, water splashes on the lens. **Grade:** Desaturated, 'bleach-bypass' look, high-contrast, heavy grain. **Details:** Muffled audio, as if underwater, then loud, chaotic gunfire and shouting."
+    },
+    "pair_53": {
+      "lay": "a food fight",
+      "elaborate": "Comedic, chaotic, **style** of 'Animal House'. **Scene:** A high school cafeteria. **Action:** Slow-motion (240fps) chaos. A tomato 'explodes' on someone's face. Milk cartons spray. A Jell-O mold wobbles through the air. **Camera:** Dynamic, moving through the chaos. **Grade:** Highly saturated, bright lighting. **Audio:** Upbeat pop-punk song."
+    },
+    "pair_54": {
+      "lay": "a crystal cave",
+      "elaborate": "Hyperrealistic CGI, 'National Geographic' style. **Scene:** A cave interior, walls covered in massive, perfectly-formed, glowing blue crystals (like Cave of the Crystals, Mexico). **Action:** A small, unmanned drone with a spotlight flies through the cave, illuminating the crystals. **Camera:** FPV from the drone. **Lighting:** The only light comes from the drone's spotlight, creating sharp, dancing reflections. **Mood:** Otherworldly, beautiful, claustrophobic."
+    },
+    "pair_55": {
+      "lay": "a fashion show",
+      "elaborate": "High-fashion, sleek, 'Vogue' style video. **Subject:** A model walking the runway. **Scene:** A minimalist, dark runway. **Action:** The model, wearing an avant-garde, flowing red dress, walks with purpose. The dress flows like liquid. **Camera:** Low-angle, follows the model's feet, then tilts up. **Lighting:** Dramatic, high-contrast 'spotlight' follows the model. **Grade:** High-contrast, saturated red, crushed blacks."
+    },
+    "pair_56": {
+      "lay": "a person building a robot",
+      "elaborate": "High-tech, 'Iron Man' style. **Scene:** A messy, high-tech workshop/garage. **Subject:** A person (protagonist) using a futuristic holographic interface. **Action:** The person's hands move, manipulating a 3D holographic model of a complex robotic arm. A real robotic arm in the background mirrors the holographic movements. **Camera:** Gimbal, circles the person. **Lighting:** Lit by the blue glow of the hologram. **Details:** Sparks from a welder in the background."
+    },
+    "pair_57": {
+      "lay": "a glass of whiskey",
+      "elaborate": "Luxury product commercial. **Subject:** A crystal tumbler with whiskey and a single, large, clear ice cube. **Action:** A 'whiskey-wave' (slow-motion) as the glass is gently set down. **Camera:** Macro probe lens, extreme close-up. **Lighting:** Warm, low-key, 'fireside' light, creating golden highlights. **Details:** Condensation on the glass, texture of the ice. **Grade:** Warm, high-contrast, 'premium' aesthetic."
+    },
+    "pair_58": {
+      "lay": "a city made of clouds",
+      "elaborate": "Surreal fantasy, 'dream-core' aesthetic. **Scene:** A vast, M.C. Escher-like city with impossible architecture (staircases going nowhere), all made of solid, tangible clouds. **Action:** White doves fly through the cloud-archways. **Camera:** Slow, majestic 'fly-through' (gimbal). **Lighting:** Backlit by a setting sun, making the cloud edges glow 'silver-lining' style. **Mood:** Ethereal, dreamlike, silent."
+    },
+    "pair_59": {
+      "lay": "a black hole in space",
+      "elaborate": "Scientifically-accurate, 'Interstellar' style. **Subject:** A supermassive black hole (like Gargantua). **Scene:** Deep space. **Action:** The black hole is surrounded by a glowing, warped accretion disk. Light from background stars is visibly 'gravitationally lensed' around the event horizon. **Camera:** Slow, ominous push-in. **Mood:** Awe-inspiring, terrifying, cosmic horror. **Grade:** High-contrast, vibrant accretion disk, perfect blackness."
+    },
+    "pair_60": {
+      "lay": "an iceberg floating",
+      "elaborate": "Documentary 'split-shot'. **Scene:** Arctic ocean. **Camera:** A 'half-under, half-over' shot. **Action:** Above water, a massive, majestic iceberg. Below water, the camera reveals the other 90% of the ice, a truly colossal, deep blue mountain of ice. A pod of orcas swims past the underwater ice. **Lighting:** Bright, clear Arctic sun. **Grade:** High-contrast, polarized, 'icy' blue/white."
+    },
+    "pair_61": {
+      "lay": "a samurai showdown",
+      "elaborate": "# KENSEI'S DUEL\n- [ #1 0.0s ] ACTION:{Two samurai stand 20 paces apart} | CAMERA:{Extreme WS, 'Kurosawa' style telephoto lens} | SUBJECT:{Two silhouettes} | SCENE:{A misty bamboo forest, wind blowing} | LIGHT:{Overcast, flat} | GRADE:{Black and white, high-contrast} | AUDIO:{ASMR wind, bamboo rustle, tension}\n- [ #2 2.0s ] ACTION:{ECU on one samurai's eyes} | CAMERA:{ECU} | SUBJECT:{Eyes narrow} | SCENE:{N/A} | LIGHT:{Catchlight} | GRADE:{Tack sharp} | AUDIO:{Heartbeat SFX, low}\n- [ #3 3.0s ] ACTION:{CU on hand on katana hilt} | CAMERA:{CU} | SUBJECT:{White knuckles} | SCENE:{N/A} | LIGHT:{Flat} | GRADE:{High detail} | AUDIO:{Heartbeat louder}\n- [ #4 3.5s ] ACTION:{Both samurai draw and charge in an instant} | CAMERA:{High-speed whip pan} | SUBJECT:{A blur of motion} | SCENE:{Bamboo} | LIGHT:{N/A} | GRADE:{Extreme motion blur} | AUDIO:{Sharp 'shing' of blades, Kiai (shout)}"
+    },
+    "pair_62": {
+      "lay": "a library with flying books",
+      "elaborate": "Magical realism, 'Harry Potter' style. **Scene:** A vast, circular, multi-story library (like the Trinity College Library, Dublin). **Action:** Books fly off the shelves, swirling in a vortex up towards the ceiling's oculus, forming a 'tornado' of paper and knowledge. **Camera:** Low-angle wide shot, spins slowly, looking up. **Lighting:** Warm, interior light. **Mood:** Whimsical, magical."
+    },
+    "pair_63": {
+      "lay": "a time-lapse of a flower blooming",
+      "elaborate": "Ultra-macro, high-resolution time-lapse. **Subject:** A Japanese cherry blossom (Sakura). **Action:** Over 48 hours (condensed to 8 seconds), the bud swells, and the delicate pink petals unfurl, bloom, and then are blown away by a gust of wind. **Camera:** Static, macro, on a clean white background. **Lighting:** Bright, clean, studio light. **Grade:** High-key, pastel colors."
+    },
+    "pair_64": {
+      "lay": "a skier going down a mountain",
+      "elaborate": "Extreme sports, FPV drone. **Subject:** A professional free-skier. **Scene:** A 'back-country' mountain in Alaska, fresh powder. **Action:** The skier drops from a helicopter, lands, and carves impossible lines down a near-vertical 'couloir', sending up huge plumes of snow. **Camera:** FPV drone, diving and weaving, following the skier. **Grade:** High-saturation, 'GoPro' aesthetic. **Audio:** 'Whoosh' of skis, muffled by snow."
+    },
+    "pair_65": {
+      "lay": "an old, abandoned amusement park",
+      "elaborate": "Eerie, 'urbex' (urban exploration) style. **Scene:** An abandoned amusement park (like Chernobyl/Pripyat). **Subject:** A single, rusted Ferris wheel. **Action:** The Ferris wheel car creaks slowly in the wind. A flock of crows sits on the structure. **Camera:** Slow, stabilized gimbal 'walk-through'. **Lighting:** Overcast, bleak, desaturated. **Mood:** Unsettling, melancholic."
+    },
+    "pair_66": {
+      "lay": "a house being built",
+      "elaborate": "Construction time-lapse. **Action:** A 6-month house build (foundation, framing, roof, finishing) condensed into 15 seconds. **Camera:** Locked-off, high-angle, wide shot, overlooking the construction site. **Details:** Workers and trucks 'zip' around like insects. Seasons change (snow melts, trees bloom). **Grade:** Clear, utilitarian, 'how-it's-made' style."
+    },
+    "pair_67": {
+      "lay": "a city on fire",
+      "elaborate": "Disaster movie, epic scale. **Scene:** A city skyline (e.g., Chicago) at night, with multiple buildings on fire. **Action:** A military helicopter flies past the camera, silhouetted against a building engulfed in flames. **Camera:** Telephoto lens, 'news helicopter' feel, slightly shaky. **Details:** Embers and ash 'snow' past the lens. **Grade:** Saturated oranges/blacks. **Mood:** Chaotic, terrifying."
+    },
+    "pair_68": {
+      "lay": "a subway train car",
+      "elaborate": "Slice-of-life, gritty, 1980s NYC style. **Scene:** Inside a 1980s New York subway car. **Details:** Covered in graffiti, lights flickering. **Subjects:** Diverse group of '80s-style passengers (boombox, punk, business man). **Action:** The car rumbles and shakes. **Camera:** Handheld, wide-angle. **Grade:** Shot on 16mm film, high grain, 'dirty' color palette. **Mood:** Authentic, urban, nostalgic."
+    },
+    "pair_69": {
+      "lay": "a person solving a puzzle",
+      "elaborate": "Suspenseful, 'escape room' style. **Subject:** A person's hands. **Scene:** A desk with a complex, mechanical 'puzzle box' (steampunk style). **Action:** The hands frantically twist dials, insert keys, and slide panels. A 'click' is heard, and a panel opens. **Camera:** Top-down 'flat-lay' shot, with quick ECU inserts on the mechanisms. **Lighting:** Single, harsh 'interrogation' style overhead lamp. **Mood:** Tense, frantic."
+    },
+    "pair_70": {
+      "lay": "an ice skater on a frozen lake",
+      "elaborate": "Serene, wide-angle. **Subject:** A single figure ice skating. **Scene:** A vast, perfectly smooth, black frozen lake in Norway. **Action:** The skater glides, cutting graceful lines. **Camera:** Drone shot, 500ft high, 'top-down' view, showing the skater as a tiny figure against the massive black ice, which reflects the sky. **Mood:** Isolated, beautiful, serene."
+    },
+    "pair_71": {
+      "lay": "a cat falling (buttered toast)",
+      "elaborate": "Surreal, high-concept, 1000fps slow-motion. **Subject:** A house cat, with a piece of buttered toast strapped to its back (buttered side up). **Action:** The cat is dropped. It twists and turns, trying to land on its feet, while the 'buttered toast' paradox tries to land butter-side down. The cat spins indefinitely, hovering. **Camera:** Static, 'science-experiment' style. **Grade:** Clean, high-key. **Mood:** Absurdist, comedic."
+    },
+    "pair_72": {
+      "lay": "a 1960s psychedelic video",
+      "elaborate": "Abstract, '60s 'liquid light show'. **Action:** Kaleidoscopic, swirling, psychedelic patterns (oil and water effect). Colors are oversaturated, bleeding. **Camera:** Macro shots of liquid experiments, overlaid. **Grade:** Heavy 'analog' distortion, film grain, light leaks. **Audio:** Distorted, 'fuzz' guitar riff (e.g., Jimi Hendrix)."
+    },
+    "pair_73": {
+      "lay": "a person walking on water",
+      "elaborate": "Mythical, serene. **Subject:** A figure in simple, white, flowing robes (gender-ambiguous). **Scene:** A massive, calm body of water (like the Sea of Galilee) at sunrise. **Action:** The figure walks calmly and slowly across the surface. Their feet create soft, glowing ripples. **Camera:** Low-angle gimbal, tracking alongside. **Lighting:** Soft, 'divine' golden hour light. **Mood:** Miraculous, peaceful."
+    },
+    "pair_74": {
+      "lay": "a giant eye in the sky",
+      "elaborate": "Surreal, 'magical realism'. **Scene:** A normal, suburban neighborhood. **Action:** A group of kids playing soccer stop and look up. The 'camera' tilts up to follow their gaze. **Camera:** Tilts up. **Reveal:** The clouds part, revealing a colossal, photorealistic human eye (like the Eye of Sauron, but organic) that blinks slowly. **Mood:** Unsettling, awe."
+    },
+    "pair_7a": {
+      "lay": "a paper airplane flying through a city",
+      "elaborate": "Whimsical, FPV 'dream' flight. **Subject:** A simple, white paper airplane. **Action:** The airplane flies impossible aerobatics through the streets of Paris, dodging cars, flying through the Arc de Triomphe, and landing on the hand of a child. **Camera:** FPV, as if the camera *is* the airplane. **Grade:** Bright, saturated, 'Amelie' style."
+    },
+    "pair_76": {
+      "lay": "a person's life in fast forward",
+      "elaborate": "# EPHEMERAL\n- [ #1 0.0s ] ACTION:{POV shot of baby looking at parents} | CAMERA:{POV} | SUBJECT:{Blurry, loving faces} | SCENE:{Hospital} | LIGHT:{Soft} | AUDIO:{Muffled cooing}\n- [ #2 0.5s ] ACTION:{Quick cuts: first steps, birthday candle, riding bike, graduation cap} | CAMERA:{Whip-pan, fast-cut 'montage'} | SUBJECT:{Person aging} | SCENE:{Various} | LIGHT:{Various} | AUDIO:{Audio 'snapshot' montage}\n- [ #3 2.0s ] ACTION:{Wedding, first dance} | CAMERA:{Spinning gimbal} | SUBJECT:{Couple} | SCENE:{Reception} | LIGHT:{Warm} | AUDIO:{Muffled music}\n- [ #4 2.5s ] ACTION:{Holding a newborn (full circle)} | CAMERA:{POV of newborn} | SUBJECT:{Older hands} | SCENE:{Hospital} | LIGHT:{Soft} | AUDIO:{Cooing}\n- [ #5 3.0s ] ACTION:{ECU on old person's eye, closing} | CAMERA:{ECU} | SUBJECT:{Eye} | SCENE:{N/A} | LIGHT:{Dim} | AUDIO:{Slow, last breath; silence}"
+    },
+    "pair_77": {
+      "lay": "an elephant in the savanna",
+      "elaborate": "Majestic wildlife, 'Planet Earth' style. **Subject:** A massive, old, 'Tusker' bull elephant. **Action:** The elephant walks in slow-motion across a dusty plain, kicking up clouds of red dust. **Camera:** Very low-angle, telephoto lens, emphasizing the elephant's size. **Lighting:** Backlit by the setting sun, creating a 'rim light' silhouette. **Grade:** High-contrast, warm, dusty."
+    },
+    "pair_78": {
+      "lay": "a piano playing by itself",
+      "elaborate": "Haunting, 'ghost' shot. **Scene:** A grand piano in a large, empty, dusty ballroom. **Action:** The piano keys move, playing a complex, melancholic classical piece (e.g., Chopin). **Camera:** Slow, 180-degree arc (dolly shot) around the piano. **Lighting:** Lit only by moonlight streaming through tall windows. **Details:** Dust motes dance in the moonlight. **Mood:** Melancholy, haunted."
+    },
+    "pair_79": {
+      "lay": "a bank robbery",
+      "elaborate": "Tense, 'Michael Mann' / 'Heat' style. **Subject:** Robbers in tactical gear and hockey masks. **Scene:** A modern bank lobby. **Action:** The leader vaults the counter, shouting commands. **Camera:** Handheld, steady-cam, 'documentary' feel, follows the action. **Grade:** Cool, blue, desaturated, metallic. **Audio:** Muffled shouting, alarms, high-tension."
+    },
+    "pair_80": {
+      "lay": "a factory assembly line",
+      "elaborate": "Hypnotic, industrial. **Scene:** A car factory assembly line. **Subject:** Robotic arms. **Action:** A 'ballet' of robotic arms, moving in perfect, precise, synchronized motion, welding a car frame. **Camera:** Static, symmetrical, 'Wes Anderson' style. **Details:** Sparks fly in perfect rhythm. **Grade:** Clean, high-tech, cool tones. **Mood:** Mesmerizing, precise."
+    },
+    "pair_81": {
+      "lay": "a city of the future",
+      "elaborate": "Utopian sci-fi, 'eco-brutalist'. **Scene:** A city (like Singapore) with massive, white, curved skyscrapers covered in lush vertical gardens and waterfalls. **Action:** Sleek, silent 'flying pods' move between buildings. **Camera:** Epic, sweeping 'helicopter' crane shot. **Lighting:** Bright, clean, solar-light. **Mood:** Clean, hopeful, futuristic."
+    },
+    "pair_82": {
+      "lay": "a soldier in a trench",
+      "elaborate": "WW1, '1917' style, 'one-take' shot. **Subject:** A young, terrified British soldier. **Scene:** A muddy, claustrophobic trench. **Action:** The soldier runs through the trench, dodging other soldiers, explosions just overhead (mud flying into the trench). **Camera:** 'Gimbal' / 'Steady-cam', follows just behind the soldier's shoulder, (simulated 'oner'). **Grade:** Desaturated, muddy, grey/blue. **Mood:** Chaotic, desperate."
+    },
+    "pair_83": {
+      "lay": "a mushroom growing time-lapse",
+      "elaborate": "Macro time-lapse, 'Fungi' documentary style. **Subject:** A cluster of 'Amanita Muscaria' (red w/ white spots) mushrooms. **Action:** From a 'pin' to a full mushroom, the 'veil' breaks, and the cap opens. **Scene:** Mossy forest floor. **Camera:** Low-angle macro, 'slider' moves slightly during the time-lapse. **Grade:** Vibrant, saturated reds and greens. **Mood:** Alien, biological."
+    },
+    "pair_84": {
+      "lay": "a person in a burning building",
+      "elaborate": "Hero shot. **Subject:** A firefighter. **Action:** The firefighter, in full gear, emerges from a wall of flames, carrying an unconscious child. **Camera:** Low-angle, tracking backward in slow-motion. **Lighting:** Lit by the 'practical' light of the fire. **Details:** Embers fall, smoke billows. **Grade:** High-contrast, 'action-movie' orange/teal. **Mood:** Heroic, triumphant."
+    },
+    "pair_85": {
+      "lay": "a traffic jam",
+      "elaborate": "Time-lapse, 'long-exposure' style. **Scene:** A highway overpass at night. **Action:** A time-lapse of a massive traffic jam. The cars 'blur' into red (taillights) and white (headlights) light-streaks. **Camera:** Static, high-angle. **Mood:** Hypnotic, 'arteries' of the city."
+    },
+    "pair_86": {
+      "lay": "a person trapped in a mirror",
+      "elaborate": "Surreal horror. **Scene:** A bathroom. **Subject:** A person looking in the mirror. **Action:** The person's reflection *doesn't* copy their movement. The reflection slowly smiles, then bangs on the 'inside' of the glass, 'trapped'. **Camera:** Static, over-the-shoulder of the 'real' person. **Lighting:** Harsh fluorescent. **Mood:** Deeply unsettling."
+    },
+    "pair_87": {
+      "lay": "a person winning the lottery",
+      "elaborate": "Emotional, high-speed camera. **Subject:** A person (mid-40s, working-class) scratching a lottery ticket at a kitchen table. **Action:** Their eyes scan the ticket. They freeze. A 1000fps slow-motion ECU on their face as they process. A single tear wells. Their hand starts to shake. They drop the ticket and cover their mouth. **Camera:** ECU. **Lighting:** Simple, 'kitchen' light. **Mood:** Life-changing, overwhelming joy."
+    },
+    "pair_88": {
+      "lay": "a penguin colony",
+      "elaborate": "BBC documentary, comedic. **Subject:** A massive colony of Emperor penguins. **Action:** A single penguin 'trips' and slides on its belly, causing a 'domino-effect' of other penguins falling. **Camera:** Telephoto lens, 'wildlife-observation' style. **Grade:** High-contrast, 'icy' blues and whites. **Mood:** Comedic, natural."
+    },
+    "pair_89": {
+      "lay": "a person in a desert, thirsty",
+      "elaborate": "Survival, gritty. **Subject:** A person, sun-burnt, lips cracked. **Scene:** Vast, featureless sand dunes. **Action:** The person stumbles, falls to their knees. **Camera:** Telephoto lens, 'heat-haze' distortion, handheld 'shaky'. **Grade:** Over-exposed, 'blown-out' whites, saturated yellows. **Mood:** Desperate, grueling."
+    },
+    "pair_90": {
+      "lay": "an alien invasion",
+      "elaborate": "Found-footage, 'Cloverfield' style. **Scene:** A city street, from a person's 'camcorder'. **Action:** People running, screaming. The camera 'whip-pans' up to see a colossal, 'tripod' alien war machine step over a building, emitting a deafening 'bass-drop' sound. **Camera:** Shaky, amateur, 'found-footage'. **Grade:** 'Low-fi', digital artifacts. **Mood:** Terrifying, chaotic."
+    },
+    "pair_91": {
+      "lay": "a beautiful woman in a red dress",
+      "elaborate": "Perfume commercial aesthetic. **Subject:** A 'supermodel' type. **Scene:** A grand, Parisian ballroom. **Action:** The woman, in a flowing red silk dress, walks in slow-motion (120fps) towards the camera. **Camera:** Gimbal, tracks backwards. **Lighting:** High-key, glamorous. **Grade:** Saturated reds, soft-focus 'glow', 'pro-mist' filter. **Mood:** Luxurious, sensual."
+    },
+    "pair_92": {
+      "lay": "a zombie horde",
+      "elaborate": "Horror, 'Walking Dead' style. **Subject:** A 'river' of 10,000+ zombies. **Scene:** An abandoned highway. **Action:** A massive, shambling horde of zombies, fills the 8-lane highway, moving slowly. **Camera:** High, 'drone' wide shot, to show the scale. **Grade:** Desaturated, 'grimy' green/brown. **Mood:** Hopeless, overwhelming."
+    },
+    "pair_93": {
+      "lay": "a 1980s high school prom",
+      "elaborate": "Nostalgic, 'Stranger Things' style. **Scene:** A high school gym decorated with streamers and a 'disco ball'. **Subjects:** Teenagers, '80s hair and 'poofy' dresses. **Action:** A couple slow-dances awkwardly. **Camera:** Handheld, '80s-era' video camera. **Grade:** 'VHS' tracking lines, low-resolution, 'soft' image. **Audio:** Faint, reverb-heavy 80s power ballad."
+    },
+    "pair_94": {
+      "lay": "a steampunk airship",
+      "elaborate": "Fantasy, CGI. **Subject:** A massive airship (dirigible) with intricate brass pipes, gears, and a giant wooden propeller. **Scene:** Flying through 'impossible' floating islands and waterfalls (like 'Avatar'). **Camera:** Epic, sweeping 'fly-by' shot. **Lighting:** Warm, golden hour. **Mood:** Adventurous, whimsical."
+    },
+    "pair_95": {
+      "lay": "a wave crashing on rocks",
+      "elaborate": "High-speed (1000fps) slow-motion. **Scene:** A rocky coastline. **Action:** A large, ocean wave crashes into black, volcanic rocks. The shot captures the 'splash' in micro-detail, individual droplets hanging in the air. **Camera:** Static, telephoto,'splash-proof' box. **Lighting:** Stormy, overcast. **Grade:** High-contrast, saturated blues. **Mood:** Powerful, elemental."
+    },
+    "pair_96": {
+      "lay": "a person's eye opening",
+      "elaborate": "Extreme macro, 4K. **Subject:** A human eye. **Action:** The eyelid opens slowly. The pupil, small at first, 'dilates' as it adjusts to the 'light'. **Camera:** Extreme macro, 'probe-lens'. **Details:** Individual eyelashes, the texture of the iris. **Lighting:** Lit from the 'front', as if the 'camera' is the light source. **Mood:** Intimate, scientific."
+    },
+    "pair_97": {
+      "lay": "a city of the dead",
+      "elaborate": "Epic fantasy, 'Lord of the Rings' style. **Scene:** A massive, haunted, green-glowing necropolis (like 'Minas Morgul'). **Subject:** An 'army' of 10,000 ghostly, green-glowing spirits marching out of the city gates. **Camera:** High-angle 'crane' shot, looking down. **Lighting:** Ethereal, green, 'unholy' light. **Grade:** High-contrast, desaturated (except for the green). **Mood:** Eerie, epic."
+    },
+    "pair_98": {
+      "lay": "a butterfly emerging from chrysalis",
+      "elaborate": "Macro time-lapse. **Subject:** A monarch chrysalis. **Action:** The chrysalis (green, with gold dots) becomes transparent, showing the wings inside. It splits, and the butterfly (wet, crumpled wings) emerges, pumps 'fluid' into its wings to expand them, and then flies away. **Camera:** Static, macro. **Lighting:** Clean, studio. **Mood:** Transformative, beautiful."
+    },
+    "pair_99": {
+      "lay": "a person working late at night",
+      "elaborate": "Slice-of-life, 'lo-fi' aesthetic. **Scene:** A person at a messy desk, 3 AM. **Details:** Empty coffee mugs, computer screen (coding), rain on the window. **Action:** The person sighs, rubs their eyes, and keeps typing. **Camera:** Static, medium shot. **Grade:** Warm, 'cozy', low-light, soft focus. **Mood:** Tired, peaceful, 'lo-fi beats to study to'."
+    },
+    "pair_100": {
+      "lay": "a massive space battle",
+      "elaborate": "Sci-fi epic, 'Star Wars' style. **Scene:** Deep space, above a planet. **Subjects:** Hundreds of capital ships (Star Destroyers) and small fighters (X-Wings). **Action:** Ships explode, lasers (red and green) streak across the screen. A fighter 'dive-bombs' a capital ship. **Camera:** Dynamic, 'in-the-action', follows a fighter. **Grade:** Saturated, high-contrast, 'blockbuster' feel. **Audio:** Explosions, laser 'pew-pew' SFX, orchestral score."
+    }
+}

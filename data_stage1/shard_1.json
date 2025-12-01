@@ -1,0 +1,411 @@
+{
+    "pair_01": {
+      "lay": "a cat sleeping on a windowsill during a rainy evening",
+      "elaborate": "Cinematic close-up of a small calico cat curled on a wooden windowsill; rain droplets streak down glass. Scene: cozy apartment interior, warm tungsten bounce against cool blue exterior rain light. Motion: shallow breathing, ear twitches, rain distortions on glass. Camera: 50mm equivalent, slow dolly-in. Palette: warm amber inside, deep blue outside; soft bloom in highlights. Audio: soft rain ambience with faint indoor hum."
+    },
+    "pair_02": {
+      "lay": "sunset over desert dunes with wind blowing sand",
+      "elaborate": "Epic landscape wide shot of rolling golden dunes under a fiery desert sunset. Wind lifts graceful sheets of sand that drift across crests. Camera: long-lens compression, slow lateral slider for parallax on dune ridges. Lighting: low-angle orange sun rim-lighting sand particles. Palette: burnt orange, gold, muted lavender in sky gradient. Atmosphere: fine dust haze, long shadows. Audio: low wind rush, distant dune resonance."
+    },
+    "pair_03": {
+      "lay": "a futuristic train speeding through a neon city",
+      "elaborate": "High-speed maglev train gliding on elevated rails through dense neon megacity at night. Motion: extreme forward motion blur on foreground towers; interior reflections on train surface. Camera: FPV chase shot, stabilized with gentle roll. Lighting: vibrant magenta/cyan signage, volumetric fog around skyscrapers. Atmosphere: rain streaks catching neon. Audio: synth-engine hum and wind shear."
+    },
+    "pair_04": {
+      "lay": "a magical forest with glowing mushrooms",
+      "elaborate": "Enchanted twilight forest with bioluminescent fungi casting soft cyan and violet light onto mossy ground. Fireflies drift in the air. Camera: slow low-angle crane up through tree roots to canopy. Lighting: mystical rim highlights, volumetric shafts from above. Palette: deep greens, electric blues. Motion: gentle leaf sway. Audio: soft ethereal pads + ambient forest hum."
+    },
+    "pair_05": {
+      "lay": "a girl flying with paper airplanes around her",
+      "elaborate": "Whimsical mid-shot of a young girl suspended in airy dreamspace; dozens of paper airplanes orbit her in spiral trajectories. Scene: abstract white void with subtle soft shadows. Camera: slow orbit; 24mm wide lens for playful distortion. Lighting: soft studio top-light with gentle bloom. Motion: paper planes flutter with slight turbulence. Palette: whites, pastels. Audio: airy whoosh + light chimes."
+    },
+    "pair_06": {
+      "lay": "a robot chef preparing noodles",
+      "elaborate": "Polished stainless-steel humanoid robot in a compact cyberpunk kitchen expertly tossing hand-pulled noodles. Camera: over-the-shoulder → close-up inserts of hands stretching dough. Lighting: warm kitchen practicals + cool blue rim from window neon. Steam interacts with LED reflections. Palette: warm gold inside, cold blues outside. Audio: sizzle, clatter, mechanical servo hums."
+    },
+    "pair_07": {
+      "lay": "a medieval castle under attack with arrows flying",
+      "elaborate": "Dynamic wartime sequence: arrows volley overhead toward a stone fortress. Camera: ground-level tracking with soldiers running; arrows streak past lens with motion blur. Lighting: overcast grey, embers from torches. Atmosphere: dust, smoke. Palette: desaturated stone, red banners, steel glints. Audio: battle cries, bow twang, arrow whistle."
+    },
+    "pair_08": {
+      "lay": "two astronauts repairing a satellite in orbit",
+      "elaborate": "Zero-gravity EVA shot: two astronauts tethered, drifting beside a sunlit satellite above Earth’s limb. Camera: free-floating steady cam, slow roll. Lighting: harsh solar rim, deep black shadows. Reflections on visors show continents below. Palette: crisp whites, deep space black, Earth blues. Audio: muted breathing + radio chatter."
+    },
+    "pair_09": {
+      "lay": "a horse galloping through a meadow at sunrise",
+      "elaborate": "Golden-hour telephoto shot of a stallion charging across dewlit grass. Backlit particles glimmer in air. Camera: slow-motion 120fps, tracking alongside horse. Lighting: warm sun flare, long shadows. Palette: honey gold, soft greens. Motion: mane whipping in wind. Audio: rhythmic hoofbeats + breeze."
+    },
+    "pair_10": {
+      "lay": "a tiny dragon hatching from an egg",
+      "elaborate": "Fantasy close-up macro shot: cracked iridescent egg trembling; tiny dragon snout emerges with steam puff. Lighting: mystical purple rim, warm orange core glow inside egg. Camera: macro lens, handheld micro-wobble. Palette: amethyst, gold, emerald. Motion: shards falling in slow drift. Audio: creature chirps, crackling shell."
+    },
+
+    "pair_11": {
+      "lay": "a quiet Japanese street in autumn with red leaves falling",
+      "elaborate": "Serene residential lane lined with maple trees shedding crimson leaves. Camera: wide establishing → slow dolly forward. Lighting: soft overcast, slight warm fill from shop lanterns. Leaves drift with subtle turbulence. Palette: deep reds, desaturated greys, warm lantern amber. Audio: distant cicadas, leaves brushing pavement."
+    },
+    "pair_12": {
+      "lay": "a cyberpunk motorcycle chase",
+      "elaborate": "High-intensity neon chase through rain-soaked alleyways. Camera: low behind-bike POV with speed streaks. Lighting: saturated magenta/cyan signage reflecting in puddles. Motion: aggressive drift turns, sparks scraping walls. Fog density increases in tunnel. Sound: engine roar, wet tires, synth pulses."
+    },
+    "pair_13": {
+      "lay": "a lighthouse surrounded by stormy waves",
+      "elaborate": "Moody storm-sea shot: giant waves crash against a solitary lighthouse. Camera: 200mm telephoto from offshore cliff; powerful spray blasts foreground. Lighting: lightning flashes illuminate mist. Palette: slate blue, white foam, steel grey. Audio: thunder, wind howl, ocean roar."
+    },
+    "pair_14": {
+      "lay": "a baker decorating a cake with flowers",
+      "elaborate": "Warm close-up of artisan pastry chef piping intricate floral icing onto a layered cake. Camera: 85mm portrait lens, shallow depth of field. Lighting: soft window key light, warm bounce card fill. Palette: whites, pastels, warm wood. Motion: precise hand movements. Audio: kitchen ambience with soft icing squish."
+    },
+    "pair_15": {
+      "lay": "an alien landscape with purple clouds and floating rocks",
+      "elaborate": "Otherworldly environment: levitating monoliths rotate slowly under swirling violet storm clouds. Camera: wide hero shot with slow crane up. Lighting: dramatic underlight, electric storm flashes. Palette: purples, teals, matte black rock. Audio: low rumbles, alien wind textures."
+    },
+    "pair_16": {
+      "lay": "a hummingbird drinking nectar from a flower",
+      "elaborate": "Ultra slow-motion macro of iridescent hummingbird feeding at bright red flower. Wings beat as translucent blurs. Lighting: natural sun backlight + reflector fill. Camera: 600fps macro telephoto. Palette: saturated greens, reds, gold. Audio: faint wing hum."
+    },
+    "pair_17": {
+      "lay": "a ballerina dancing on a rooftop",
+      "elaborate": "Cinematic rooftop performance at golden hour; ballerina in flowing dress spins against skyline silhouette. Camera: gimbal orbit, 35mm wide. Lighting: flaring sun, soft side fill. Dress catches wind. Palette: warm hues with soft contrast. Audio: gentle piano theme + city ambience."
+    },
+    "pair_18": {
+      "lay": "a snowman coming alive and walking",
+      "elaborate": "Whimsical animation-style shot: snowman blinks awake, waddles through snowy yard. Lighting: cool blue ambient with warm house window glow. Camera: steady mid-shot. Motion: squash-and-stretch softness. Palette: whites, blues, warm golden windows. Audio: crunching snow + cute vocal pips."
+    },
+    "pair_19": {
+      "lay": "a panda eating bamboo in a forest",
+      "elaborate": "Natural documentary style: panda munches bamboo among misty bamboo groves. Camera: 200mm telephoto through foreground leaves for depth. Lighting: diffused overcast. Palette: soft greens, black-white fur. Audio: bamboo snaps + gentle nature ambience."
+    },
+    "pair_20": {
+      "lay": "a deep-sea jellyfish glowing in darkness",
+      "elaborate": "Ethereal deep-ocean shot of giant bioluminescent jellyfish drifting in pitch-black water. Tentacles pulse with cyan light. Camera: slow push-in, dark negative space. Lighting: self-illumination only. Palette: blues, violets. Audio: low underwater rumbles."
+    },
+  
+    "pair_21": {
+      "lay": "kids flying kites on a beach",
+      "elaborate": "Warm summer beach scene with children running as colorful kites arc across sky. Camera: handheld sun-drenched 35mm. Lighting: golden sun, lens flares, warm sand reflections. Motion: playful bounces. Palette: warm yellows, blues, rainbow kites. Audio: waves, laughter."
+    },
+    "pair_22": {
+      "lay": "a knight riding through a forest",
+      "elaborate": "Heroic medieval ride-through; armored knight gallops along forest path. Camera: tracking horseback side shot. Lighting: shafts of sunlight, dust motes. Palette: earthy tones, steel glints. Audio: hoofbeat rhythm + rustling armor."
+    },
+    "pair_23": {
+      "lay": "tiny robots repairing a broken toy car",
+      "elaborate": "Macro-scale scene: thumb-sized robots weld and screw parts on toy car chassis. Camera: macro slider; shallow DOF. Lighting: cool workshop overhead + orange welding sparks. Palette: metallic silver, neon tool lights. Audio: micro servo whirrs, spark pops."
+    },
+    "pair_24": {
+      "lay": "a fairy flying above a pond",
+      "elaborate": "Delicate fantasy shot: luminescent fairy glides above moonlit pond, casting rippling light patterns. Camera: slow glide tracking. Lighting: bioluminescent glow + moon rim. Palette: silver blues, soft pinks. Audio: soft twinkles + water ambience."
+    },
+    "pair_25": {
+      "lay": "a busy morning market in Morocco",
+      "elaborate": "Vibrant street market sequence: vendors shouting, spices in mounds, textiles swaying. Camera: handheld documentary 28mm. Lighting: bright sun filtered through fabric canopies. Palette: rich turmeric, crimson, teal. Audio: chatter, rustling cloth, footsteps."
+    },
+    "pair_26": {
+      "lay": "a time-lapse of clouds over mountains",
+      "elaborate": "Hyperlapse alpine panorama: clouds roll rapidly over sharp peaks. Lighting shift from golden sunrise to deep blue evening. Camera: fixed tripod with smooth exposure transitions. Palette: cool blues, warm mornings. Audio: calm ambient drones."
+    },
+    "pair_27": {
+      "lay": "a shark swimming near a diver",
+      "elaborate": "Underwater cinematic shot: diver hovers calmly as shark circles with elegant motion. Camera: free-floating wide-angle dome lens. Lighting: sunbeams penetrate from surface. Palette: teal, navy, silver. Audio: muffled bubbles + ocean hum."
+    },
+    "pair_28": {
+      "lay": "hot air balloons at sunrise",
+      "elaborate": "Aerial shot of dozens of balloons lifting above valley at dawn. Camera: drone gliding between balloons. Lighting: pink-orange sunrise, soft atmospheric haze. Palette: warm pastels. Audio: burners whoosh + distant chatter."
+    },
+    "pair_29": {
+      "lay": "a wizard casting a fire spell",
+      "elaborate": "Fantasy close-up: wizard extends staff as swirling fire spiral erupts. Camera: dramatic low-angle push. Lighting: intense orange flame key, blue rim. Palette: fire oranges contrasted with night blues. Audio: crackling flame + arcane resonance."
+    },
+    "pair_30": {
+      "lay": "a robot dog playing fetch",
+      "elaborate": "Cute robotics vignette: sleek robot canine sprints to fetch neon ball. Camera: ground-level tracking. Lighting: soft daylight in urban park. Motion: responsive leg articulation. Palette: neutral greys + pop of neon. Audio: servo whir + playful beeps."
+    },
+  
+    "pair_31": {
+      "lay": "a waterfall in a tropical jungle",
+      "elaborate": "Lush tropical cascade plunging into misty pool. Camera: crane rise revealing surrounding greenery. Lighting: dappled sunlight, water spray glints. Palette: deep greens, turquoise water. Audio: thunderous waterfall + bird calls."
+    },
+    "pair_32": {
+      "lay": "a phoenix made of fire soaring into the sky",
+      "elaborate": "Mythic flaming phoenix ascends with fiery wing trails. Camera: slow upward tracking as embers swirl. Lighting: core fire glow, bright trail, dark sky backdrop. Palette: oranges, golds, black. Audio: roaring flames."
+    },
+    "pair_33": {
+      "lay": "a family hiking in a forest",
+      "elaborate": "Documentary family hike along mossy path. Camera: handheld 24mm capturing natural expressions. Lighting: soft forest bounce, occasional sunbeam. Palette: greens, warm clothing tones. Audio: footsteps, laughter."
+    },
+    "pair_34": {
+      "lay": "a drone flying over rice terraces",
+      "elaborate": "High drone shot sweeping over emerald rice terraces with mirrored water. Camera: smooth tilt-down and forward. Lighting: late-afternoon sun, long shadows. Palette: greens, golds, sky blues. Audio: soft wind + nature."
+    },
+    "pair_35": {
+      "lay": "a knight fighting a dragon",
+      "elaborate": "Epic clash: armored knight dodges dragon flame. Camera: chaotic handheld + wide cutaways. Lighting: fire bursts, smoke haze. Palette: reds, blacks, steel. Audio: roars, clashing steel, flame whoosh."
+    },
+    "pair_36": {
+      "lay": "fireflies above a meadow at night",
+      "elaborate": "Dreamy meadow under moonlight with hundreds of fireflies drifting. Camera: 35mm static with shallow DOF. Lighting: soft blue night + warm firefly glints. Palette: cool blue, warm yellow sparkles. Audio: crickets, breeze."
+    },
+    "pair_37": {
+      "lay": "a skier going down a snowy mountain",
+      "elaborate": "Action POV of skier carving through powder. Camera: helmet cam stabilized. Lighting: bright sun on snow, strong speculars. Palette: whites, blues. Audio: snow carving + wind rush."
+    },
+    "pair_38": {
+      "lay": "a futuristic drone swarm forming shapes",
+      "elaborate": "Night sky performance: synchronized drones forming geometric formations. Camera: wide static. Lighting: LED light trails, city skyline silhouette. Palette: cyan/magenta drones. Audio: soft hum + crowd murmur."
+    },
+    "pair_39": {
+      "lay": "a coffee cup on a table with steam rising",
+      "elaborate": "Warm macro café shot: steam curls from ceramic cup near window. Camera: close-up 85mm. Lighting: morning sunbeam catching steam. Palette: warm browns, golden highlights. Audio: quiet café ambience."
+    },
+    "pair_40": {
+      "lay": "a flying car above a futuristic city",
+      "elaborate": "Sleek hovercar gliding between megatowers at dusk. Camera: side tracking with parallax through neon signage. Lighting: dusk glow + neon bounce. Palette: cyan, magenta, silver. Audio: turbine hum + city noise."
+   ,
+    "pair_41": {
+      "lay": "penguins sliding on ice",
+      "elaborate": "Playful penguins belly-surfing on icy slope. Camera: low ground POV sliding beside them. Lighting: bright polar sun. Palette: whites, blues, black plumage. Audio: squeaks + sliding ice."
+    },
+    "pair_42": {
+      "lay": "clouds shaped like animals",
+      "elaborate": "Whimsical sky timelapse where cumulus clouds morph subtly into animal-like silhouettes. Lighting: golden-hour gradient. Camera: locked-off with gentle dolly-out. Palette: pastel oranges, pinks, blues. Audio: soft wind + ambient pads."
+    },
+    "pair_43": {
+      "lay": "a violinist performing on a street corner",
+      "elaborate": "Emotional street performance at dusk; violinist plays near lamppost. Camera: 50mm portrait with bokeh of city lights. Lighting: warm lamplight key, cool ambient. Audio: expressive violin + light traffic."
+    },
+    "pair_44": {
+      "lay": "a tiny submarine exploring coral reefs",
+      "elaborate": "Mini-sub navigates vibrant coral reef maze. Camera: chase shot with soft particulate drift. Lighting: filtered sunlight, bioluminescent coral accents. Palette: saturated corals, blues. Audio: underwater hum."
+    },
+    "pair_45": {
+      "lay": "a baby dragon learning to fly",
+      "elaborate": "Adorable clumsy dragon flaps wings in meadow, small hops becoming brief flight. Camera: mid-shot tracking. Lighting: warm soft sun. Palette: greens, golds, pastel scales. Audio: squeaks + wing flutters."
+    },
+    "pair_46": {
+      "lay": "a spaceship landing on Mars",
+      "elaborate": "Dusty touchdown sequence: spacecraft descends with thruster plumes scattering red dust. Camera: dramatic low-angle wide. Lighting: harsh Mars daylight. Palette: red sands, white hull, black shadows. Audio: rumble + dust impacts."
+    },
+    "pair_47": {
+      "lay": "a train passing through snowy mountains",
+      "elaborate": "Scenic winter shot: red train snakes through snowy pass. Camera: high drone following arcs. Lighting: crisp cold sunlight. Palette: whites, blues, red train. Audio: distant engine + wind."
+    },
+    "pair_48": {
+      "lay": "a cat chasing a laser pointer",
+      "elaborate": "Funny domestic cat darting after laser dot across wooden floor. Camera: handheld playful angle. Lighting: warm interior. Palette: browns, soft whites. Audio: quick paws + jingle collar."
+    },
+    "pair_49": {
+      "lay": "a child blowing bubbles",
+      "elaborate": "Slow-motion macro: iridescent bubbles forming and drifting. Camera: 100fps close-up then wide. Lighting: soft daylight with rainbow reflections. Palette: pastels. Audio: soft blowing + pops."
+    },
+    "pair_50": {
+      "lay": "a medieval blacksmith forging a sword",
+      "elaborate": "Sparks fly as blacksmith hammers glowing steel. Camera: 24fps → 60fps slow-mo inserts. Lighting: fiery forge orange vs cool workshop shadows. Palette: warm metal tones. Audio: hammer clang + roar of furnace."
+    },
+  
+    "pair_51": {
+      "lay": "a spaceship flying through an asteroid field",
+      "elaborate": "Dynamic cockpit shot weaving through tumbling asteroids. Lighting: star glints on metal, engine glow. Motion: fast lateral dodges. Palette: black, grey rock, blue thrusters. Audio: alarms + engine roar."
+    },
+    "pair_52": {
+      "lay": "a girl reading under a tree",
+      "elaborate": "Calm pastoral shot: girl leaned against oak reading. Camera: soft 50mm, shallow DOF. Lighting: scattered sunbeams through leaves. Palette: greens, warm skin tones. Audio: birds + page turns."
+    },
+    "pair_53": {
+      "lay": "a robot painting a portrait",
+      "elaborate": "Studio shot: articulated robot arm applying brush strokes on canvas. Camera: macro of brush → wide of artwork. Lighting: soft studio key. Palette: muted greys + colorful paint. Audio: servo motors + brush swipes."
+    },
+    "pair_54": {
+      "lay": "a neon dragon flying above skyscrapers",
+      "elaborate": "Glowing neon dragon serpentines around high-rise rooftops at night. Camera: aerial chase, neon reflections on glass. Palette: cyan/magenta neon. Audio: electric hum + wind."
+    },
+    "pair_55": {
+      "lay": "dogs playing in a park",
+      "elaborate": "Playful montage of dogs running, jumping, wrestling in grassy park. Camera: 120fps slow-mo inserts. Lighting: midday warm sun. Palette: greens, earth tones. Audio: barks + panting."
+    },
+    "pair_56": {
+      "lay": "a storm brewing over the ocean",
+      "elaborate": "Dark thunderstorm formation over choppy water. Camera: wide static with long exposure waves. Lighting: lightning illumination of clouds. Palette: deep blues, greys. Audio: thunder + surf."
+    },
+    "pair_57": {
+      "lay": "a robot exploring ruins",
+      "elaborate": "Post-apocalyptic ruins exploration by small robot drone. Camera: FPV glide through collapsed hallways. Lighting: dusty shafts, broken windows. Palette: desaturated concrete, rust. Audio: mechanical clicks + debris."
+    },
+    "pair_58": {
+      "lay": "a butterfly landing on a flower",
+      "elaborate": "Macro slow-motion of butterfly wings shimmering, landing gracefully. Camera: tele-macro. Lighting: warm sun with backlight on wings. Palette: vibrant petals + iridescent wings. Audio: soft wind."
+    },
+    "pair_59": {
+      "lay": "a skier jumping off a cliff",
+      "elaborate": "Extreme sports shot: skier launches off cliff in slow-motion. Camera: drone follow + POV mix. Lighting: bright snow glare. Audio: wind whoosh + cheering."
+    },
+    "pair_60": {
+      "lay": "a futuristic mech walking through a city",
+      "elaborate": "Massive mech strides between skyscrapers. Camera: low-angle imposing shots. Lighting: sunlight reflections on metal plating; industrial haze. Palette: steel, neon signage. Audio: heavy footfalls + servo clanks."
+    },
+  
+    "pair_61": {
+      "lay": "a fox running through the woods",
+      "elaborate": "Cinematic wildlife shot: fox darts through underbrush. Camera: tele lens tracking through foliage. Lighting: golden forest beams. Palette: warm orange fur vs cool greens. Audio: rustling brush."
+    },
+    "pair_62": {
+      "lay": "a child drawing with crayons",
+      "elaborate": "Close-up of small hands coloring vivid drawings. Camera: 50mm macro details. Lighting: warm soft lamp. Palette: rainbow crayons. Audio: crayon scratch + soft hum."
+    },
+    "pair_63": {
+      "lay": "a spaceship warp jumping",
+      "elaborate": "Sci-fi spectacle: ship accelerates into warp, stars elongate into streaks. Camera: cockpit then exterior wide. Lighting: extreme bloom and chromatic streaks. Audio: deep bass swell."
+    },
+    "pair_64": {
+      "lay": "a turtle swimming in a coral reef",
+      "elaborate": "Gentle tracking shot of sea turtle gliding past corals. Lighting: caustics from surface. Palette: teals, oranges, coral colors. Audio: underwater ambience."
+    },
+    "pair_65": {
+      "lay": "a train arriving at a station",
+      "elaborate": "Urban transit shot: train enters platform with motion blur. Camera: tripod with pan follow. Lighting: fluorescent station lights. Palette: steel, yellow safety lines. Audio: brakes + announcements."
+    },
+    "pair_66": {
+      "lay": "a neon sign flickering at night",
+      "elaborate": "Close-up of flickering neon sign tubes in rainy alley. Camera: macro on glass condensation. Lighting: magenta glow, reflections on puddles. Audio: buzzing neon + drizzle."
+    },
+    "pair_67": {
+      "lay": "a chef cooking in a busy kitchen",
+      "elaborate": "Intense kitchen montage: flames flare, pans clatter, chefs call orders. Camera: handheld documentary style. Lighting: warm tungsten, stainless reflections. Audio: sizzling, chopping."
+    },
+    "pair_68": {
+      "lay": "a robot learning to walk",
+      "elaborate": "Lab environment: bipedal robot wobbles, corrects balance, walks forward. Camera: static tripod → close-ups of actuators. Lighting: neutral clean lab. Audio: servo whir + researcher notes."
+    },
+    "pair_69": {
+      "lay": "a boat sailing through mist",
+      "elaborate": "Mystical shot of small boat drifting through dense mist on calm lake. Camera: slow lateral dolly. Lighting: diffuse soft, silhouettes fading. Palette: greys, muted blues. Audio: gentle paddles."
+    },
+    "pair_70": {
+      "lay": "a supercar speeding on a desert road",
+      "elaborate": "High-speed chase cam: supercar tears down open highway. Camera: low-mounted bumper cam + drone cutaways. Lighting: harsh desert sun. Palette: hot asphalt, metallic car. Audio: roaring engine."
+    },
+  
+    "pair_71": {
+      "lay": "a magical book opening on its own",
+      "elaborate": "Enchanted grimoire on pedestal flips pages via invisible force. Camera: close-up swirling around book. Lighting: warm candle glow + mystical blue rim. Palette: gold, blue, parchment. Audio: page flutter + soft magic hum."
+    },
+    "pair_72": {
+      "lay": "a lion roaring on a rock",
+      "elaborate": "Majestic wildlife shot: lion stands on rocky outcrop, roaring. Camera: low-angle tele. Lighting: golden savanna sunrise. Palette: warm golds, sandy browns. Audio: powerful roar + wind."
+    },
+    "pair_73": {
+      "lay": "a pastel-colored sky over a calm lake",
+      "elaborate": "Tranquil sunrise mirror-lake reflection. Camera: static wide with slight push. Lighting: peach-pink gradient, soft mist. Palette: pastels. Audio: soft water lapping."
+    },
+    "pair_74": {
+      "lay": "a girl opening a gift box with light coming out",
+      "elaborate": "Magical interior: girl opens box emitting brilliant warm light. Camera: close-up reaction → over-shoulder reveal. Lighting: glowing volumetric beam. Palette: warm gold. Audio: soft chime swell."
+    },
+    "pair_75": {
+      "lay": "a robot beekeeper tending neon bees",
+      "elaborate": "Sci-fi apiary with glowing neon bees hovering around honeycombs. Robot carefully handles frames. Camera: macro bee shots → medium robot shot. Lighting: dark hive + neon glows. Audio: buzzing + soft servo sounds."
+    },
+    "pair_76": {
+      "lay": "a waterfall frozen in midair",
+      "elaborate": "Fantasy shot: waterfall suspended motionless, with explorer walking around it. Camera: slow orbit. Lighting: soft midday glints. Palette: crystal blues. Audio: subtle frozen ice crackles."
+    },
+    "pair_77": {
+      "lay": "a comet streaking across the night sky",
+      "elaborate": "Majestic astrophotography-style sequence: comet trails long icy tail across star-filled sky. Camera: wide static with subtle tracking stars. Palette: deep blues, bright white tail. Audio: ambient space drone."
+    },
+    "pair_78": {
+      "lay": "a forest fire with firefighters working",
+      "elaborate": "Crisis action: firefighters battle blaze among burning pines. Camera: handheld chaotic. Lighting: intense orange flames, smoke haze. Palette: black soot, orange flames. Audio: crackling, radio chatter."
+    },
+    "pair_79": {
+      "lay": "a futuristic subway station",
+      "elaborate": "Clean futuristic station with holographic signage. Camera: wide symmetrical shot. Lighting: cool-white LEDs, hologram glows. Palette: whites, cool blues. Audio: PA system + footsteps."
+    },
+    "pair_80": {
+      "lay": "a deer in a snowy forest",
+      "elaborate": "Quiet winter scene: deer steps through powder snow. Camera: telephoto through tree branches. Lighting: diffuse overcast. Palette: whites, browns. Audio: soft crunching."
+    },
+  
+    "pair_81": {
+      "lay": "a fire dancer performing at night",
+      "elaborate": "Night performance: dancer spins flaming poi creating light trails. Camera: slow shutter with motion blur streaks. Lighting: fire primary source. Palette: orange fire, dark background. Audio: whoosh + drums."
+    },
+    "pair_82": {
+      "lay": "a futuristic robot gardener watering plants",
+      "elaborate": "Clean bio-dome: robot gently waters bioluminescent plants. Camera: over-shoulder → macro droplets. Lighting: cool artificial sun + neon plant glows. Audio: water spritz + servo hums."
+    },
+    "pair_83": {
+      "lay": "a surfer riding a big wave",
+      "elaborate": "Dynamic surf cam tracking athlete carving massive wave. Lighting: backlit sun through wave. Palette: deep turquoise, white spray. Audio: roaring water."
+    },
+    "pair_84": {
+      "lay": "a cherry tree blooming in spring",
+      "elaborate": "Soft pastel hanami scene: petals drift in slow breeze. Camera: dolly under branches. Lighting: warm soft daylight. Palette: pink petals, pale sky. Audio: gentle wind."
+    },
+    "pair_85": {
+      "lay": "a robot librarian organizing books",
+      "elaborate": "Elegant robot sorts floating holographic book indexes in grand futuristic library. Camera: mid-shot with dolly. Lighting: cool beams + warm book lamps. Palette: steel blue + gold. Audio: soft hums."
+    },
+    "pair_86": {
+      "lay": "a magical portal opening in the forest",
+      "elaborate": "Glowing circular portal shimmering between trees. Camera: slow push-in with leaf silhouettes. Lighting: bright magical cyan, dark forest. Audio: resonant hum + crackle."
+    },
+    "pair_87": {
+      "lay": "a tiger walking through tall grass",
+      "elaborate": "Majestic tiger stalks through golden tall grass. Camera: low tele with foreground occlusion. Lighting: warm sun beams. Palette: orange fur, green-gold grass. Audio: rustle + growl."
+    },
+    "pair_88": {
+      "lay": "a city rising from the ground",
+      "elaborate": "Time-lapse fantasy: skyscrapers grow upward from earth like crystals. Camera: aerial wide. Lighting: sunrise progression. Palette: metallic silver, warm gold. Audio: mechanical rumble."
+    },
+    "pair_89": {
+      "lay": "a giant whale swimming in the sky",
+      "elaborate": "Surreal sky-ocean hybrid: whale floats above clouds, sunlight scattering through body. Camera: wide dreamy glide. Palette: soft blues, whites. Audio: deep whale song."
+    },
+    "pair_90": {
+      "lay": "a girl turning into a butterfly",
+      "elaborate": "Magical metamorphosis: petals swirl around girl, transforming into luminous butterfly wings. Camera: slow circular dolly. Lighting: warm golden rim. Audio: soft magical chimes."
+    },
+    
+    "pair_91": {
+      "lay": "a robot traffic cop directing cars",
+      "elaborate": "Urban intersection with polite robot directing autonomous cars. Camera: street-level with shallow DOF. Lighting: dusk neon reflections. Audio: city hum + servo beeps."
+    },
+    "pair_92": {
+      "lay": "a racecar drifting around a corner",
+      "elaborate": "High-adrenaline drift shot with tire smoke billowing. Camera: low chase cam. Lighting: sunset glow. Audio: engines, tire screech."
+    },
+    "pair_93": {
+      "lay": "a wizard flying on a broomstick",
+      "elaborate": "Fantasy aerial chase over mountains; wizard swoops through clouds. Camera: dramatic third-person tracking. Lighting: golden sunlight. Audio: wind + spell crackles."
+    },
+    "pair_94": {
+      "lay": "a futuristic kitchen cooking itself",
+      "elaborate": "Automated kitchen with robotic arms prepping ingredients autonomously. Camera: wide to macro transitions. Lighting: clean white. Palette: chrome, white. Audio: servo hums + chopping."
+    },
+    "pair_95": {
+      "lay": "a ship sailing through glowing algae",
+      "elaborate": "Night ocean scene: ship cuts through bioluminescent algae glowing turquoise. Camera: drone above wake. Lighting: natural moon + algae glow. Audio: waves + creaking wood."
+    },
+    "pair_96": {
+      "lay": "a giant tree with houses built on it",
+      "elaborate": "Massive ancient tree supporting village of wooden homes. Camera: slow aerial circle. Lighting: golden afternoon. Palette: greens, warm browns. Audio: wind + distant chatter."
+    },
+    "pair_97": {
+      "lay": "a fox made of smoke",
+      "elaborate": "Surreal fox composed of drifting smoke tendrils runs through void. Camera: medium slow-motion. Lighting: backlit volumetrics. Palette: greys, whites. Audio: soft airy whooshes."
+    },
+    "pair_98": {
+      "lay": "a futuristic soldier in powered armor",
+      "elaborate": "Heroic sci-fi soldier stands in battlefield haze. Camera: low-angle dramatic. Lighting: rim from explosions, cool armor lights. Palette: steel blue, orange sparks. Audio: mech servos."
+    },
+    "pair_99": {
+      "lay": "a city underwater with glowing fish",
+      "elaborate": "Submerged metropolis lit by schools of neon fish. Camera: drifting glide past skyscrapers. Lighting: bioluminescent glow, blue diffuse. Audio: underwater ambient."
+    },
+    "pair_100": {
+      "lay": "a cosmic whale swimming through stars",
+      "elaborate": "Galactic fantasy: enormous star-whale glides across nebula clouds, tail scattering stardust. Camera: majestic wide push. Lighting: iridescent nebula hues. Audio: deep resonant cosmic hum."
+    }
+  }
+}

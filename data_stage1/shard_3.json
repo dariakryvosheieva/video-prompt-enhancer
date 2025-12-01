@@ -1,0 +1,402 @@
+{
+    "pair_1": {
+      "lay": "A golden retriever puppy playing in a field of flowers.",
+      "elaborate": "# GOLDEN HOUR CHASE - CINEMATIC SLICE - Subject: Golden Retriever puppy (8 weeks old, fluffy, playful energy). Action: Darting through a meadow of wild daisies and poppies. Scene: Magic Hour (soft, low sun, slight haze), tall grass, backlit flowers. Lighting: Strong warm rim light on the puppy's fur, soft fill from ground bounce, lens flare (anamorphic streak, subtle). Camera: Low-angle tracking shot, 50mm, shallow depth of field (f/1.8), gentle handheld sway, speed ramping (slow-mo on the puppy's jump). Grade: Warm, creamy bokeh, high saturation in reds/yellows, cinematic crush to the blacks, fine grain."
+    },
+    "pair_2": {
+      "lay": "Futuristic city with flying cars at night.",
+      "elaborate": "# NEON JUNGLE - HIGH-CONTRAST CYBERPUNK - Subject: Multi-tiered vertical cityscape, rain-slicked neon signs, high-speed flying traffic. Scene: Dystopian metropolis, constant drizzle, midnight. Lighting: Hard edge-lighting from massive holograms (electric blue/fuchsia), reflected light pooling on wet streets, deep shadows, volumetric light shafts from below. Camera: Aerial time-lapse/hyperlapse (simulated, very high frame rate look), wide-angle, slight rotation around a central skyscraper spire. Grade: Teal and orange palette, extreme contrast, heavy bloom/halation on lights, film scratches texture, gritty."
+    },
+    "pair_3": {
+      "lay": "A cat sleeping by a fireplace.",
+      "elaborate": "# FIRESIDE SLUMBER - COZY DOMESTIC STILLNESS - Subject: Persian cat (creamy white fur, slow blinking). Action: Curled up and sleeping on a thick woolen rug beside a stone fireplace. Scene: Warm cabin interior, late evening, glowing embers. Lighting: Primary light source is the flickering fire (warm orange/red), strong shadow play, soft window light as subtle fill. Camera: Medium close-up, fixed tripod, 85mm portrait lens, very shallow DOF, slow 5-second pan from the fire's heat haze to the cat's face. Grade: Very warm tone, soft contrast, gentle halation around the fire, deep blacks, subtle smoke effect in the air."
+    },
+    "pair_4": {
+      "lay": "Ocean waves crashing on a beach.",
+      "elaborate": "# MONOLITH WAVE - SLOW-MOTION MARINE DRAMA - Subject: Massive rogue wave breaking against a jagged, dark basalt rock outcrop. Scene: Cold, overcast morning, black sand beach, heavy spray mist. Lighting: Diffuse, high-key overcast light, strong shadows only within the wave's curl. Camera: Ultra-slow-motion (1000fps simulation), extreme telephoto, fixed tripod, focus on the texture of the water as it shears. Grade: Desaturated, cool-toned (slate grey/ocean blue), incredibly sharp detail in water droplets, high contrast, minimalist composition."
+    },
+    "pair_5": {
+      "lay": "A medieval knight fighting a dragon.",
+      "elaborate": "# ARMORED CONFLICT - EPIC FANTASY CLASH - Subject: Full plate knight (ornate black armor) facing a massive, scarred, red-scaled European dragon. Action: Knight dodging a blast of flame in a ruined courtyard. Scene: Gloomy, perpetually twilight fantasy world, rain-soaked stone ruins. Lighting: Primary key light is the intense, flickering orange of the dragon's fire, strong rim light on the knight's armor (reflecting the fire), volumetric smoke/steam present. Camera: Dynamic handheld POV shot (low to the ground), wide-angle, extreme Dutch tilt, quick whip pan following the fire's trajectory. Grade: High-contrast cinematic, dark saturation, heavy vignette, aggressive motion blur, molten lava palette."
+    },
+    "pair_6": {
+      "lay": "Cherry blossom petals falling in a park.",
+      "elaborate": "# SAKURA WHISPER - JAPANESE AESTHETIC POETRY - Subject: Millions of delicate *Somei Yoshino* cherry blossom petals. Action: Cascading rapidly in a gentle breeze (Hana-Fubuki). Scene: Traditional Japanese garden, bamboo grove, mossy stone lanterns, late afternoon. Lighting: Soft, diffused golden hour light filtering through the canopy, subtle crepuscular rays. Camera: Locked tripod shot, medium close-up, 100mm macro-feel, focus on a single petal descending, deep bokeh of pink/white background. Grade: Pastel palette, soft contrast, airy and light, gentle focus breathing, extremely subtle camera shake for realism."
+    },
+    "pair_7": {
+      "lay": "Robot assembling a car in a factory.",
+      "elaborate": "# AUTOMATED RHYTHM - INDUSTRIAL CHOREOGRAPHY - Subject: Precision robotic arm (sleek, brushed titanium) welding a chassis component. Action: Fast, fluid, highly synchronized movement, intense sparks. Scene: Clean, high-tech, minimalist factory floor, night shift. Lighting: Stark, overhead fluorescent practicals, intense blue/white light from the welding arc (primary light), dark, oily floors. Camera: Close-up *Ozu* shot (fixed low-angle), emphasis on the metallic texture and the geometry of the sparks, minimal motion blur on the robot's arm, focus pull on the sparks. Grade: Cold blue/grey monochromatic look, high sharpness, extreme detail in metal texture, film noise simulation."
+    },
+    "pair_8": {
+      "lay": "A car driving fast on a mountain road.",
+      "elaborate": "# ASPHALT RIBBON - ADRENALINE AUTO CHASE - Subject: Vintage sports car (1970s, bright yellow, perfect condition). Action: Cornering aggressively on a switchback. Scene: Austrian Alps road (*Grossglockner* style), clear autumn day, vibrant foliage. Lighting: Direct, hard sun, strong shadows, light glinting off the car's chrome. Camera: High-speed drone/helicopter follow shot, wide-angle, tracking the car closely from above-behind, strong parallax, high shutter speed to freeze motion blur, stabilized. Grade: High-energy, vibrant saturation, deep green/yellow contrast, clean, sharp image."
+    },
+    "pair_9": {
+      "lay": "A beautiful model walking on a city street.",
+      "elaborate": "# STREET COUTURE - FASHION EDITORIAL SLOW-WALK - Subject: Female model (high fashion, avant-garde outfit). Action: Deliberate, confident slow-walk down a busy, gritty side street. Scene: Soho/Lower East Side style street, late afternoon, steam from manholes. Lighting: Soft-box style side light from an unseen storefront, hard rim light from the low sun, practical streetlights providing color. Camera: Medium close-up, Steadicam walk-and-talk (but without talk), 35mm lens, focus on the fabric texture and expression, smooth forward push. Grade: Moody, slight desaturation, emphasis on high-key color accents (red lipstick, fabric), film grain 35mm simulation, perfect skin tone rendering."
+    },
+    "pair_10": {
+      "lay": "Rain falling on a window with city lights outside.",
+      "elaborate": "# AQUATIC VIGNETTE - URBAN NOCTURNE - Subject: Raindrops tracking down a window pane, highly detailed water movement. Scene: Interior looking out onto a dense urban night scene (Tokyo/Hong Kong aesthetic). Lighting: Out-of-focus bokeh lights (red, yellow, cyan) outside, minimal interior light source. Camera: Fixed medium shot, macro focus on the water rivulets, very shallow depth of field, gentle steam/fogging effect on the glass. Grade: Extremely high bokeh saturation, soft focus on the outside, hyper-real detail on the water, cool blue/warm yellow contrast."
+    },
+    "pair_11": {
+      "lay": "A group of friends laughing and talking at a cafe.",
+      "elaborate": "# COFFEE CONVERSATIONS - FRENCH NEW WAVE STYLING - Subject: Three young adults (stylish, diverse, expressive body language). Action: Engaged, animated conversation, deep laughter. Scene: Busy Parisian cafe interior, midday, small table by a window. Lighting: Natural window light (soft but directional) creating distinct shadows, practical lamp source as warm highlight. Camera: Over-the-shoulder shot transitioning to a single close-up, handheld 16mm feel (slight organic wobble), zoom-in on a specific reaction. Grade: Black and white (high contrast), gritty film stock simulation, jump cuts between close-ups, improvisational feel."
+    },
+    "pair_12": {
+      "lay": "Astronaut floating in space near a planet.",
+      "elaborate": "# COSMIC ISOLATION - STANLEY KUBRICK AESTHETIC - Subject: Solo astronaut (vintage bulky suit, strong shadows). Action: Extremely slow, controlled rotation while gripping a cable tether. Scene: Deep space, Earth half-lit (terminator line sharp), deep black void. Lighting: Single, hard light source (sun) creating deep, inky shadows (hard contrast), Earth-glow as very subtle blue fill. Camera: Extreme wide shot (human scale against planet), very slow 1-degree camera pan, fixed focus, ultra-clean digital look (IMAX resolution feel). Grade: Ultra-high contrast, pure black vacuum, Earth saturated with color, no lens artifacts."
+    },
+    "pair_13": {
+      "lay": "Drone view of a waterfall in a jungle.",
+      "elaborate": "# EMERALD CATHEDRAL - AERIAL NATURE DOCUMENTARY - Subject: Massive, multi-tiered waterfall (heavy mist), dense, primary-growth jungle canopy. Scene: Remote South American jungle, mid-morning. Lighting: Soft, high overcast light, slight sun filtering through mist creating a faint rainbow. Camera: Slow, smooth, descending aerial shot (crane/cable-cam feel), ultra-wide-angle lens to exaggerate scale, emphasis on the texture of the mossy rock. Grade: High saturation on greens/blues, crisp detail, heavy atmosphere/haze, professional stabilization, clean movement."
+    },
+    "pair_14": {
+      "lay": "A chef cooking a steak on a grill.",
+      "elaborate": "# CULINARY INTENSITY - GOURMET ACTION SLICE - Subject: Professional chef (focused expression, detailed hand movements). Action: Searing a thick-cut dry-aged steak on a cast-iron grill, high flame, smoke rising. Scene: Commercial kitchen, late service. Lighting: Hard, directional overhead key light highlighting the smoke, hot red/orange glow from the grill, dark background. Camera: Extreme close-up on the steak/hands/tongs, very short depth of field, high-speed recording to capture the spitting fat/smoke dynamics, slow push-in. Grade: Warm, high-contrast, focus on the caramelized crust texture, exaggerated heat distortion effect."
+    },
+    "pair_15": {
+      "lay": "Girl dancing alone in her room.",
+      "elaborate": "# FREEFORM CHOREOGRAPHY - INDIE MUSIC VIDEO - Subject: Young woman (expressive, loose clothing). Action: Improvised, emotional, energetic dancing/spinning. Scene: Messy, sun-drenched bedroom, vinyl records on the floor, late afternoon. Lighting: Strong, warm, directional sun streaming through a sheer curtain, dramatic shadows across the floor. Camera: Handheld, low shutter speed (creating motion blur on the arms/legs), erratic movement, quick cuts (simulated), medium shot to capture the whole body. Grade: Overexposed highlights, muted colors except for one specific accent (e.g., red curtain), hazy, vintage video filter."
+    },
+    "pair_16": {
+      "lay": "Old man sitting on a park bench feeding pigeons.",
+      "elaborate": "# THE OBSERVER - NEO-REALIST HUMANITY - Subject: Elderly man (deeply wrinkled face, woolen coat). Action: Slowly scattering bread crumbs, pigeons fluttering around him. Scene: Central Park, early spring, overcast day, bare trees. Lighting: Soft, diffuse, flat light, slight rim light from the clouds. Camera: Wide-angle, fixed tripod shot, capturing the man small in the frame, emphasizing the large, empty space and the city backdrop (slightly blurred). Grade: Desaturated, muted earth tones, low contrast, subtle texture of the wool and stone, focus on melancholic atmosphere."
+    },
+    "pair_17": {
+      "lay": "A fighter jet taking off from an aircraft carrier.",
+      "elaborate": "# DECK LAUNCH - HIGH-G POWER DISPLAY - Subject: F/A-18 Super Hornet. Action: Catapult launch, steam and massive heat haze from the afterburners. Scene: Mid-ocean aircraft carrier deck, choppy water, mid-day sun. Lighting: Hard, direct sunlight, strong shadows, intense glow from the engine exhaust. Camera: High-speed, ground-level fixed camera (on the deck), wide-angle to capture the whole plane, aggressive camera shake (simulated impact/vibration). Grade: Crisp, high-detail, slight color grading to emphasize the blue of the ocean and the heat of the fire, dramatic lens flare from the sun."
+    },
+    "pair_18": {
+      "lay": "Fish swimming in a coral reef.",
+      "elaborate": "# REEF DIVERSITY - SUB-AQUATIC MACRO - Subject: School of vibrant blue Tang fish and a single yellow clownfish. Action: Fluid, complex schooling patterns, clownfish retreating into a sea anemone. Scene: Healthy, highly detailed coral reef ecosystem (LPS/SPS). Lighting: Strong, directional simulated sunlight filtering down through the water (caustics effect), deep blue background. Camera: Underwater medium close-up, very smooth tracking shot, 50mm, emphasis on the texture of the coral and the skin of the fish. Grade: High saturation, intense colors (electric blue, neon yellow), perfectly balanced white point, subtle distortion from water movement."
+    },
+    "pair_19": {
+      "lay": "Time lapse of a sunset over mountains.",
+      "elaborate": "# ALPENGLOW CATHARSIS - HYPER-REAL TIME-LAPSE - Subject: Jagged, snow-capped mountain peaks (Dolomites style). Action: Sun descending rapidly, casting long, changing shadows and intense alpenglow. Scene: High-altitude viewpoint, clear air, rapidly moving wispy clouds. Lighting: Rapidly shifting light color (yellow→orange→magenta→deep blue). Camera: Fixed tripod, ultra-high resolution (8K feel), focus on cloud and light movement, long exposure look (smooth cloud movement). Grade: Extreme saturation of the alpenglow colors, deep contrast, crisp horizon line, zero noise/grain."
+    },
+    "pair_20": {
+      "lay": "Someone opening a mysterious glowing box.",
+      "elaborate": "# PANDORA'S GLOW - SCI-FI MYSTERY - Subject: Pair of hands (aged, careful) opening a heavy, ornate wooden box bound with copper. Action: Slow, suspenseful reveal; blinding, soft green light emanates from inside. Scene: Dark, dusty library/archive room. Lighting: Primary light is the internal soft green/cyan glow, strong spill light on the hands and nearby objects, deep background shadows. Camera: Extreme close-up on the hands and the box opening, slow dolly-out to a medium shot, subtle zoom, focus on the light source. Grade: High-contrast, dark aesthetic, green/copper color palette, soft-focus on the glow, volumetric haze."
+    },
+    "pair_21": {
+      "lay": "A red balloon floating away into the sky.",
+      "elaborate": "# ESCAPE VELOCITY - WHIMSICAL FABLE - Subject: Single, perfectly spherical, glossy red helium balloon. Action: Slow, gentle ascent over a cityscape, eventually becoming a dot. Scene: Bright, sunny day, clear blue sky, view from a high rooftop. Lighting: Hard, bright sunlight reflecting strongly off the balloon's surface. Camera: Fixed tripod, extreme telephoto lens (compression effect), tracking the balloon's movement from below, subtle lens distortion at the edges. Grade: High saturation on the red and the blue sky, clean, sharp, focus on the sense of isolation and scale."
+    },
+    "pair_22": {
+      "lay": "Close up of a flower blooming fast.",
+      "elaborate": "# PETAL UNFOLDING - TIME-LAPSE MACRO ELEGANCE - Subject: A single, deep violet morning glory flower. Action: Rapid, smooth time-lapse blooming from bud to full flower. Scene: Controlled studio environment, black velvet background. Lighting: Soft-box continuous light, strong highlight on the petal edges to show texture, zero spill on the background. Camera: Extreme macro lens, fixed tripod, focus on the exact center of the bloom, high resolution, emphasis on color purity. Grade: Deep black background, vibrant color saturation, zero noise, hyper-sharp detail."
+    },
+    "pair_23": {
+      "lay": "Skateboarder doing a trick in a skate park.",
+      "elaborate": "# CONCRETE AIR - ACTION SPORTS SLOW-MO - Subject: Pro-level skateboarder (streetwear style). Action: Landing a complex flip trick (e.g., hardflip) off a stair set. Scene: Empty, sun-drenched concrete skate park, midday. Lighting: Hard, direct sun, strong, fast-moving shadows. Camera: Ground-level tracking shot, high-speed slow-motion (simulated), wide-angle, emphasis on the board rotation and the dust cloud on landing. Grade: High contrast, warm tones, aggressive motion blur on the background, crisp focus on the subject."
+    },
+    "pair_24": {
+      "lay": "An oil painting coming to life.",
+      "elaborate": "# BRUSHSTROKE AWAKENING - RENAISSANCE HYPER-REALISM - Subject: A detailed portrait (Vermeer style, subject is a young woman). Action: Subtle movement: the subject's eyes slowly open and look directly out of the frame, the painted texture transitions to photorealistic skin. Scene: Inside the framed canvas, deep shadows. Lighting: 'Rembrandt lighting' simulation, directional, warm light from the upper-left, deep, oily shadows. Camera: Fixed medium close-up, emphasis on the texture of the painted canvas and the transition to realism, extremely slow movement. Grade: Warm amber tones, emphasis on brushstroke texture, subtle chromatic aberration, perfect preservation of the original painting's color palette."
+    },
+    "pair_25": {
+      "lay": "The Eiffel Tower at sunset with sparkling lights.",
+      "elaborate": "# PARISIAN DIAMOND - ARCHITECTURAL NIGHT TRANSITION - Subject: Eiffel Tower, highly detailed wrought iron structure. Action: Lights beginning to 'twinkle' (simulated, synchronized sparkling), transition from golden hour to deep twilight. Scene: View from the Trocadéro, deep twilight (blue hour). Lighting: External floodlights (warm yellow), internal light from the structure, deep blue ambient sky. Camera: Fixed tripod, telephoto compression, emphasis on the texture of the iron and the density of the city lights, slow 8-second zoom-in to the base. Grade: High saturation, sharp contrast between the yellow lights and the deep blue sky, slight bloom on the light sources."
+    },
+    "pair_26": {
+      "lay": "A superhero landing on a rooftop.",
+      "elaborate": "# GUARDIAN DESCENT - COMIC BOOK EPIC - Subject: Cloaked superhero (dark blue/gold armored suit). Action: Impact landing on a rain-slicked rooftop, creating a shockwave and spray of water. Scene: Dystopian city skyline, perpetual night, heavy rain. Lighting: Strong, multi-colored rim lights from neon signs below (fuchsia, cyan), backlight from a massive lightning flash (white key). Camera: Low-angle, wide-angle 'hero shot,' slow-motion for the impact and water splash, quick whip pan to follow the landing. Grade: Moody, high-contrast, blue/cyan color grade, heavy rain simulation, strong motion blur on the water spray."
+    },
+    "pair_27": {
+      "lay": "Steam train going across a bridge in a valley.",
+      "elaborate": "# IRON HORSE PASSAGE - VINTAGE RAIL TRAVEL - Subject: Large, black, coal-fired steam locomotive (detailed brass fittings). Action: Crossing a high stone viaduct, billowing thick, white smoke. Scene: Misty Scottish Highlands valley, early morning. Lighting: Soft, diffuse sun struggling through the mist, strong contrast between the dark train and the white smoke. Camera: Aerial tracking shot (drone/helicopter simulation), following the train's path, emphasis on the scale of the valley and the sound of the whistle (simulated). Grade: Muted colors, sepia tone filter, high detail on the steam texture, slight camera shake (for realism of a vintage shot)."
+    },
+    "pair_28": {
+      "lay": "Water splashing out of a glass in slow motion.",
+      "elaborate": "# HYDRO DYNAMICS - LIQUID SCULPTURE - Subject: Clear water. Action: Single ice cube dropped into a whiskey glass, causing a massive, intricate crown-splash. Scene: Controlled studio environment, black background. Lighting: Three-point strobed lighting setup, strong rim light to highlight the water surface tension, soft front fill. Camera: Ultra-high-speed slow-motion (simulated 2000fps), extreme macro lens, focus on the physics of the splash structure. Grade: Monochromatic, incredibly sharp detail, focus on texture and form, zero noise."
+    },
+    "pair_29": {
+      "lay": "A peaceful garden pond with a frog.",
+      "elaborate": "# ZEN MOMENT - JAPANESE GARDEN IDYLL - Subject: Small green frog (bright emerald color). Action: Sitting perfectly still on a lily pad, subtle water ripples. Scene: Traditional Japanese Koi pond, mossy stones, weeping willow branches. Lighting: Soft, high key light filtering through the willow, reflection of the sky on the water surface, caustics on the pond bottom. Camera: Fixed low-angle shot, 100mm macro, extremely shallow DOF, emphasis on the clarity of the water and the detail of the frog's skin, subtle parallax as the camera slowly pulls back. Grade: High saturation on greens, soft, dreamy focus, subtle vignette."
+    },
+    "pair_30": {
+      "lay": "The Northern Lights over a snowy landscape.",
+      "elaborate": "# AURORA DREAMSCAPE - ARCTIC STARFALL - Subject: Intense, vibrant green and violet Aurora Borealis display, slow-moving. Scene: Vast, snow-covered fjords (Norway/Iceland style), sharp, clear night. Lighting: Primary light is the Aurora, soft ambient blue moonlight, subtle rim light on the snow texture. Camera: Fixed tripod, ultra-wide-angle lens, extremely high-resolution time-lapse look (smooth motion), emphasis on the depth of the star field behind the Aurora. Grade: High-saturation of the aurora colors, deep blue blacks, emphasis on clarity and zero noise, soft bloom on the light trails."
+    },
+    "pair_31": {
+      "lay": "A diver exploring a sunken shipwreck.",
+      "elaborate": "# SILENT VOYAGE - UNDERWATER WRECK DISCOVERY - Subject: Solo technical scuba diver (single-tank, dark suit). Action: Slowly swimming through the decay of a large, wooden Spanish galleon wreck. Scene: Deep, murky tropical water, heavy sediment. Lighting: Primary light is the diver's handheld torch (tight beam, strong shadow), volumetric haze/sediment in the water, soft blue ambient light from above. Camera: Close-following track, slow movement, wide-angle lens, emphasis on the scale of the wreck. Grade: Dark, moody, high contrast, blue/green color cast, strong caustics on the wreck's hull."
+    },
+    "pair_32": {
+      "lay": "An eagle flying high above mountains.",
+      "elaborate": "# APEX PREDATOR - MAJESTIC FLIGHT - Subject: Golden Eagle (highly detailed feathers, keen eyes). Action: Soaring effortlessly on thermals, slow, majestic wing beats, banking to reveal the underside. Scene: High desert mountain range (Utah/Arizona style), clear, bright midday. Lighting: Hard, direct sun, strong rim light on the wing edges, deep blue sky. Camera: Ultra-telephoto, fixed viewpoint, tracking the eagle against the sky backdrop, extreme detail on the feather texture. Grade: High contrast, warm tones on the eagle's plumage, clean blue sky, emphasis on texture and movement."
+    },
+    "pair_33": {
+      "lay": "A market street full of people in an old city.",
+      "elaborate": "# VIBRANT CHATTER - BUSTLING MEDINA LIFE - Subject: Hundreds of people, vendors, colorful textiles, spices. Action: Intense, chaotic movement, buying and selling, crowd flow. Scene: Marrakech or Istanbul street market (Medina), mid-day sun. Lighting: High-contrast, patchy sunlight filtering through canopies, deep shadows, warm practical lantern light. Camera: Fixed tripod, elevated POV, capturing the density and complexity of the crowd, focusing on the movement and color of the textiles. Grade: High saturation, very warm palette, slight motion blur on the crowd movement, focus on chaotic energy."
+    },
+    "pair_34": {
+      "lay": "A horse running free in a field.",
+      "elaborate": "# WILD SPIRIT - EQUINE GRANDEUR - Subject: Black Friesian horse (long, flowing mane and tail). Action: Galloping at full speed across a vast, green pasture. Scene: Rolling hills (Ireland style), dramatic overcast sky, late afternoon. Lighting: Strong, diffuse light, dramatic rim light where the sun breaks through the clouds. Camera: Low-angle tracking shot (simulated high-speed drone), focus on the muscle movement and the flowing mane/tail, wide-angle to capture the scale. Grade: Moody, deep green/brown tones, high contrast, slow-motion on the mane movement, cinematic widescreen aspect ratio."
+    },
+    "pair_35": {
+      "lay": "Abstract colorful liquid mixing and swirling.",
+      "elaborate": "# FLUID CHOREOGRAPHY - INK IN WATER MACRO - Subject: Highly viscous, opaque liquid (fluorescent red, cyan, and gold ink). Action: Slow, mesmerizing intermixing and swirling in a clear, static medium. Scene: Controlled studio setup, black background. Lighting: Strong, focused backlighting to illuminate the ink's texture and density, subtle sidelight to create specular highlights. Camera: Extreme macro, fixed tripod, focus on the chaotic, fractal-like formations, ultra-slow-motion (simulated). Grade: Intense, hyper-saturated colors, deep black background, focus on the smooth, liquid movement, zero grain."
+    },
+    "pair_36": {
+      "lay": "A desert landscape with sand dunes and a big sky.",
+      "elaborate": "# SILENT SEA - SAHARAN EPIC - Subject: Massive, perfectly sculpted red-orange sand dunes. Action: Gentle wind blowing sand across the crests (sand smoke), long shadows. Scene: Remote Sahara Desert, very early morning. Lighting: Low, sharp, direct sun creating long, deep shadows that define the dune curves, deep blue sky. Camera: Fixed tripod, medium close-up on the dune crest, slow-motion capture of the sand movement, emphasis on the texture of the sand. Grade: Warm, orange/red palette, high contrast, clean, minimalist composition."
+    },
+    "pair_37": {
+      "lay": "A beautiful girl looking out of a window sadly.",
+      "elaborate": "# REFLECTED GHOST - MELANCHOLY PORTRAIT - Subject: Young woman (expressive face, high cheekbones, dark hair). Action: Looking out a window onto a rainy city, a single tear tracking down her cheek. Scene: Dark apartment interior, rainy afternoon. Lighting: Soft, diffuse window light (key), strong reflection of the outside on the glass (double exposure effect), dark interior (neg fill). Camera: Medium close-up, fixed tripod, 85mm lens, focus on the eye/tear, very shallow DOF. Grade: Cool, desaturated, high contrast on the facial features, subtle bokeh/halation on the reflected lights."
+    },
+    "pair_38": {
+      "lay": "Timelapse of a star trail moving across the night sky.",
+      "elaborate": "# CELESTIAL VORTEX - ASTRO-PHOTOGRAPHY - Subject: Star trails forming perfect concentric circles around Polaris. Action: Rapid apparent rotation of the sky. Scene: High-altitude dark sky location (Atacama Desert style), ultra-clear night. Lighting: Ambient starlight, zero light pollution. Camera: Fixed tripod, ultra-wide-angle lens, long-exposure time-lapse (simulated, very smooth trail creation), focus on the contrast between the trails and the black sky. Grade: Deep, pure black sky, high saturation on the star colors, zero noise, high-resolution clarity."
+    },
+    "pair_39": {
+      "lay": "A person walking down a spooky, foggy road.",
+      "elaborate": "# EERIE PASSAGE - HORROR ATMOSPHERE - Subject: Lone figure (silhouette, fedora hat, long coat). Action: Slow, deliberate walk directly away from the camera into dense, swirling fog. Scene: Tree-lined, abandoned dirt road, deep night. Lighting: Single, flickering orange practical light (e.g., old gas lamp) creating strong rim light and long shadows, dense, volumetric low-lying fog. Camera: Fixed tripod, medium wide shot, focus on the texture of the fog and the figure's silhouette, slow zoom-out. Grade: Desaturated, moody blue/orange contrast, heavy film grain, eerie, subtle movement within the shadows."
+    },
+    "pair_40": {
+      "lay": "A close up of someone playing a guitar.",
+      "elaborate": "# FINGERSTYLE FUSION - INTIMATE MUSIC PERFORMANCE - Subject: Musician (aged acoustic guitar, bare hands). Action: Complex fingerstyle pattern, highly detailed plucking and fretting movements. Scene: Minimalist recording studio, warm wood paneling. Lighting: Hard, directional spotlight on the hands and the guitar fretboard, deep background shadows. Camera: Extreme close-up on the strings and fingers, macro lens, very shallow depth of field, high-speed slow-motion to capture string vibration. Grade: Warm, earthy tones, high contrast, focus on the texture of the wood and the movement of the strings, subtle lens flare."
+    },
+    "pair_41": {
+      "lay": "A beautiful snow leopard stalking prey.",
+      "elaborate": "# GHOST OF THE MOUNTAINS - WILDLIFE ESPIONAGE - Subject: Snow leopard (thick, camouflaged fur, intense green eyes). Action: Slow, low-crawling stalk across a rocky ridge, subtle movement. Scene: High, rocky Himalayan environment, blizzard conditions, midday. Lighting: Diffuse, flat, high-key light from the snow and overcast sky. Camera: Fixed medium shot, low to the ground, slight lens fogging (simulated breath/cold), emphasis on the leopard's camouflage, zero camera movement. Grade: Desaturated, cool-toned (blue/white), incredibly sharp detail, focus on texture and stillness."
+    },
+    "pair_42": {
+      "lay": "A wizard casting a powerful fire spell.",
+      "elaborate": "# ARCANE INFERNO - MAGICAL FX SPECTACLE - Subject: Hooded wizard (glowing runes on hands). Action: Violent, rapid casting of a massive, swirling column of blue/orange fire. Scene: Dark, medieval stone dungeon/chamber, wet floor. Lighting: Primary light is the intense, flickering blue/orange glow of the magic, strong rim light on the wizard's silhouette, deep shadows, volumetric haze. Camera: Dynamic handheld POV shot (low to the ground), wide-angle, slow-motion on the fire effect, quick camera pull-back on the climax. Grade: High-contrast, hyper-saturated magic colors, aggressive bloom/halation on the fire, high-energy motion blur."
+    },
+    "pair_43": {
+      "lay": "People running a marathon in a big city.",
+      "elaborate": "# URBAN ENDURANCE - ATHLETIC VIGNETTE - Subject: Thousands of marathon runners (varying degrees of exhaustion). Action: Intense, high-speed, synchronized running motion, sweat, determination. Scene: Narrow canyon street in NYC (Midtown), early morning. Lighting: Stark, high-contrast sunlight reflecting off glass skyscrapers, deep shadows. Camera: Medium close-up, fast-moving tracking shot (stabilized gimbal), focusing on the lead runners' faces and muscle effort, extreme lens compression of the crowd behind. Grade: High contrast, warm tones, sharp detail on faces and sweat, subtle film grain."
+    },
+    "pair_44": {
+      "lay": "A cartoon character smiling and winking.",
+      "elaborate": "# TOON CHARM - TRADITIONAL 2D ANIMATION - Subject: Anthropomorphic Fox character (classic Disney style, vibrant orange fur). Action: Fluid, expressive slow-turn, ending with a charming, exaggerated wink and a playful smirk. Scene: Simple, clean blue-sky background. Lighting: Flat, bright 'cel-shaded' lighting, strong color purity. Camera: Fixed medium close-up, emphasis on the line work and the smoothness of the animation, focus on the character's personality. Grade: Pure, high-saturation colors, zero grain, classic 24fps hand-drawn feel."
+    },
+    "pair_45": {
+      "lay": "Inside a massive cavern with crystals.",
+      "elaborate": "# GEODE REALM - SUBTERRANEAN MARVEL - Subject: Walls and ceiling covered in massive, glowing amethyst and quartz crystals. Action: Water dripping slowly from the ceiling, small glowing insects flying. Scene: Deep, unexplored subterranean cavern, wet, dark stone. Lighting: Primary light from the internal glow of the crystals (violet, cyan), subtle reflections on the wet rock, deep black voids. Camera: Slow, smooth crane shot, wide-angle to emphasize scale, subtle lens flare from the brightest crystals. Grade: Moody, high contrast, deep violet/cyan color palette, hyper-detail on the crystal structure, volumetric haze."
+    },
+    "pair_46": {
+      "lay": "A child drawing on a blackboard.",
+      "elaborate": "# CREATIVE SPARK - CHILDHOOD INNOCENCE - Subject: Young child (5-7 years old, messy paint on hands). Action: Drawing a simple, messy chalk drawing of the sun and a house on a large, green blackboard. Scene: Old classroom, soft afternoon light. Lighting: Soft, warm window light illuminating the chalk dust floating in the air, deep shadows. Camera: Medium close-up, fixed tripod, focus on the hands and the rough texture of the chalk on the board, subtle rack focus from the child's face to the drawing. Grade: Warm, nostalgic sepia tone, soft focus, subtle film grain."
+    },
+    "pair_47": {
+      "lay": "A UFO hovering over a desert highway.",
+      "elaborate": "# E.T. ENCOUNTER - SCI-FI SUSPENSE - Subject: Classic 'flying saucer' UFO (brushed silver, no visible seams). Action: Hovering silently, casting an intense, downward beam of white light onto an empty, dark highway. Scene: Remote Arizona desert highway, deep night. Lighting: Intense, directional white beam of light, subtle blue-rim light on the UFO body, deep black sky. Camera: Low-angle, wide-angle fixed shot, slow-motion on the dust/debris being sucked up by the beam, extreme lens flare from the light source. Grade: High-contrast, dark aesthetic, emphasis on the sharp contrast between the light beam and the dark night."
+    },
+    "pair_48": {
+      "lay": "Birds flying in a massive flock.",
+      "elaborate": "# MURMURATION ABSTRACT - ORGANIZED CHAOS - Subject: Huge flock of starlings (*Sturnus vulgaris*). Action: Forming complex, fluid, highly synchronized, abstract shapes against the sky (murmuration). Scene: Flat English countryside, sunset. Lighting: Strong, warm backlight from the setting sun creating silhouettes of the birds, soft golden glow on the horizon. Camera: Aerial tracking shot (drone simulation), extreme wide-angle, emphasis on the scale and the abstract patterns of the flock's movement. Grade: Silhouetted, high contrast, deep orange/pink sunset palette, focus on the fluid motion."
+    },
+    "pair_49": {
+      "lay": "A street musician playing a saxophone in the rain.",
+      "elaborate": "# BLUES IN THE WET - JAZZ NOIR MOOD - Subject: Black male saxophone player (fedora, trench coat, passionate expression). Action: Playing a soulful melody in the rain. Scene: New Orleans street, night, wet cobblestones. Lighting: Strong, directional yellow practical streetlight as key, reflections on the wet street, volumetric rain. Camera: Fixed medium shot, low angle, focus on the facial expression and the glint of light on the brass instrument, subtle camera shake (simulated passing traffic). Grade: Moody, high-contrast, deep blue/yellow color palette, heavy rain simulation, film noir aesthetic."
+    },
+    "pair_50": {
+      "lay": "A massive ancient temple hidden in a forest.",
+      "elaborate": "# RUINED MAJESTY - EXPLORATION FANTASY - Subject: Vast, moss-covered, overgrown stone temple (Mayan or Khmer style). Action: Slowly revealed as thick jungle mist dissipates. Scene: Dense tropical rainforest, heavy mist, mid-morning. Lighting: Soft, diffused sunlight filtering through the canopy, subtle crepuscular rays, strong green color cast. Camera: Slow, smooth crane shot rising above the canopy to reveal the temple, wide-angle lens, emphasis on the scale and the organic decay. Grade: High saturation on greens and browns, deep, volumetric haze, focus on the texture of the stone and the moss."
+    },
+    "pair_51": {
+      "lay": "A person kayaking on a calm lake at sunrise.",
+      "elaborate": "# DAWN'S REFLECTION - SERENE LANDSCAPE - Subject: Single person in a red kayak. Action: Slowly paddling across a perfectly still, mirror-like lake surface. Scene: Canadian Rockies lake, perfect sunrise (golden hour). Lighting: Low, warm, directional sun creating a strong, perfect reflection on the water, subtle mist rising from the water. Camera: Fixed tripod, wide-angle shot, perfectly symmetrical composition (sky/reflection), emphasis on the stillness and the color transition. Grade: Warm, high-saturation sunrise colors, clean, sharp, focus on the mirror-like quality of the water."
+    },
+    "pair_52": {
+      "lay": "A medieval blacksmith hammering hot iron.",
+      "elaborate": "# FORGE OF FIRE - INDUSTRIAL ARTISTRY - Subject: Muscular blacksmith (leather apron, focused expression). Action: Violently hammering a piece of glowing, red-hot iron on an anvil, sparks flying. Scene: Dark, smoky blacksmith forge, deep night. Lighting: Primary light is the intense, flickering red/orange glow of the iron and the fire, strong rim light on the blacksmith's silhouette, volumetric smoke/steam present. Camera: Medium close-up, fixed tripod, focus on the impact and the texture of the metal, high-speed slow-motion on the sparks. Grade: High-contrast, warm color palette (red/orange/deep black), aggressive motion blur on the hammer swing."
+    },
+    "pair_53": {
+      "lay": "Close up of someone making sushi.",
+      "elaborate": "# KAISEKI PRECISION - CULINARY ARTISTRY - Subject: Master Sushi Chef (immaculate white uniform, focused). Action: Precisely slicing a piece of raw tuna with a *yanagiba* knife, followed by a delicate placement of the fish on rice. Scene: Minimalist, clean sushi counter, cedar wood. Lighting: Soft, directional overhead light, strong highlight on the wet fish surface, deep, soft shadows. Camera: Extreme close-up on the knife and the hands, macro lens, very shallow depth of field, high-speed slow-motion on the slice, focus on the texture of the fish and the precision of the movement. Grade: Cool, clean color palette, hyper-sharp focus, emphasis on the delicate texture."
+    },
+    "pair_54": {
+      "lay": "A basketball player doing a slam dunk.",
+      "elaborate": "# SKY WALKER - ATHLETIC AIR TIME - Subject: Professional basketball player (intense expression, specific team jersey). Action: Leaping for a powerful, high-flying slam dunk, mid-air freeze at the apex. Scene: Packed, brightly lit indoor arena, game-winning moment. Lighting: Bright, flat arena lighting, focus on the deep shadows under the rim. Camera: Low-angle, slow-motion shot, wide-angle to capture the height of the jump and the reaction of the crowd (slightly blurred background). Grade: High contrast, vibrant team colors, focus on the muscular tension and the intensity of the moment, freeze-frame effect."
+    },
+    "pair_55": {
+      "lay": "Aurora Borealis over a snowy cabin.",
+      "elaborate": "# BOREAL SOLITUDE - ARCTIC ATMOSPHERE - Subject: Small, rustic wooden cabin (single window lit) in a vast, snow-covered clearing. Action: Intense, vibrant green and purple Aurora Borealis swirling rapidly overhead. Scene: Remote Alaskan wilderness, clear, cold night. Lighting: Primary light is the Aurora, warm yellow glow from the cabin window, subtle blue moonlight on the snow. Camera: Fixed tripod, wide-angle to capture the scale of the sky and the cabin, time-lapse look on the Aurora movement. Grade: High-saturation of the aurora colors, warm contrast from the cabin light, deep blue sky, focus on the contrast of human warmth against nature's grandeur."
+    },
+    "pair_56": {
+      "lay": "A diver jumping off a high cliff into the ocean.",
+      "elaborate": "# GRAVITY'S RELEASE - EXTREME SPORTS VERTIGO - Subject: Professional cliff diver (minimalist swimwear). Action: Executing a perfect, slow-motion forward dive from a massive, sheer cliff face. Scene: Aegean Sea (Greece style), crystal-clear turquoise water, mid-day sun. Lighting: Hard, direct sun, strong shadows, intense reflections off the water. Camera: High-speed slow-motion (simulated), fixed cliff-edge viewpoint, focus on the diver's form and the vertical drop, wide-angle to capture the height. Grade: High contrast, vibrant turquoise/blue water, emphasis on the speed and the clarity of the water."
+    },
+    "pair_57": {
+      "lay": "A beautiful hummingbird drinking nectar from a flower.",
+      "elaborate": "# FELT FLIGHT - MACRO WILDLIFE GRACE - Subject: Tiny Ruby-throated Hummingbird (iridescent green/red throat). Action: Hovering perfectly still, drinking from a red trumpet flower, rapid wing blur. Scene: Tropical garden, mid-morning. Lighting: Strong, focused sunlight highlighting the iridescence of the feathers, deep, soft background bokeh. Camera: Extreme macro lens, fixed tripod, high-speed slow-motion on the wings (creating a specific motion blur), focus on the long, fine beak and the flower detail. Grade: High saturation, intense colors, focus on the textural detail of the feathers and the liquid nectar."
+    },
+    "pair_58": {
+      "lay": "A futuristic soldier walking through a war-torn city.",
+      "elaborate": "# GHOST OF THE CITY - POST-APOCALYPTIC GRIT - Subject: Heavily armored soldier (detailed futuristic armor, helmeted). Action: Slow, wary patrol through ruined, smoking city streets. Scene: Post-war cityscape (Blade Runner/Cyberpunk influence), perpetual gloom, light rain. Lighting: Volumetric haze/smoke, occasional flicker of emergency lights (red/blue), soft, diffuse light from the overcast sky. Camera: Low-angle tracking shot, slow, deliberate movement, wide-angle lens, focus on the scale of the destruction and the metallic texture of the armor. Grade: Desaturated, moody blue/grey palette, heavy film grain, subtle lens distortion."
+    },
+    "pair_59": {
+      "lay": "Kids playing with sparklers on the 4th of July.",
+      "elaborate": "# SUMMER NIGHT MAGIC - NOSTALGIC VIGNETTE - Subject: Two children (7-10 years old, laughing). Action: Drawing patterns in the air with glowing, sparkling sparklers. Scene: Dark suburban backyard, summer night, fireflies in the background. Lighting: Primary light is the intense, flickering, gold-white light of the sparklers, soft ambient light from the house. Camera: Medium shot, handheld feel, slow shutter speed (creating light trails from the sparklers), focus on the children's faces. Grade: Warm, soft, high-contrast light trails, deep black background, subtle halation, focus on the nostalgic feel."
+    },
+    "pair_60": {
+      "lay": "A dancer performing ballet on a stage.",
+      "elaborate": "# SWAN SONG - CLASSICAL GRACE - Subject: Female ballet dancer (*en pointe*, white tutu). Action: Executing a slow, controlled *pirouette* with perfect form. Scene: Empty, dark stage, single warm spotlight. Lighting: Single, hard-edged warm spotlight creating a strong circle of light, deep black background (neg fill), subtle haze medium. Camera: Fixed medium shot, low angle, 100mm lens, extremely smooth slow-motion capture of the rotation, focus on the costume texture and the dancer's muscle control. Grade: High contrast, warm, monochromatic (yellow/white) light, focus on the silhouette and the movement."
+    },
+    "pair_61": {
+      "lay": "A group of elephants walking through the savannah.",
+      "elaborate": "# KILIMANJARO TREK - WILDLIFE EPOS - Subject: Family group of African bush elephants (including calf). Action: Slow, rhythmic walk across the dry savannah at sunset. Scene: Vast, golden savannah plains, view of Mount Kilimanjaro in the far background. Lighting: Strong, low, golden hour backlight, kicking up dust plumes, deep red/orange sun. Camera: Slow, smooth, parallel tracking shot (helicopter/drone simulation), wide-angle to capture the scale, high-speed slow-motion on the dust. Grade: Warm, high-saturation golden tones, deep contrast, classic documentary feel, focus on the dust texture and the scale."
+    },
+    "pair_62": {
+      "lay": "A person writing in a notebook with a pen.",
+      "elaborate": "# INK AND THOUGHT - MEDITATIVE MACRO - Subject: Hand (male, aged, calloused) holding an antique fountain pen (detailed nib). Action: Slowly and deliberately writing in cursive script on high-quality parchment paper. Scene: Minimalist desk, soft morning light. Lighting: Soft, directional light from the left (window light), strong highlight on the wet ink and the pen nib, deep, soft shadows. Camera: Extreme close-up, macro lens, fixed tripod, focus on the capillary action of the ink spreading on the paper, very slow motion. Grade: Warm, earthy tones, hyper-sharp detail on the paper texture, clean, quiet aesthetic."
+    },
+    "pair_63": {
+      "lay": "A rollercoaster going very fast on a track.",
+      "elaborate": "# G-FORCE RUSH - EXTREME RIDE DYNAMICS - Subject: High-speed, modern steel roller coaster (specific design, e.g., hypercoaster). Action: Plummeting down a steep drop and immediately entering a high-G inversion/loop. Scene: Amusement park, clear blue sky, mid-day. Lighting: Hard, direct sun, strong reflections off the track steel. Camera: Fixed tripod, low angle from the ground directly under the track, high-speed slow-motion, extreme wide-angle, emphasis on the scale and the speed. Grade: High contrast, vibrant colors, strong motion blur on the background, focus on the sense of height and acceleration."
+    },
+    "pair_64": {
+      "lay": "A wizard opening a secret magical door in a wall.",
+      "elaborate": "# PORTAL UNSEALED - ANCIENT ARCANUM - Subject: Hand (male, aged, ringed) touching a specific sigil on a massive, mossy stone wall. Action: The sigil flares with cyan light, and the stone wall slowly dissolves into a field of shimmering blue-white particles. Scene: Dark, forgotten ruin, overgrown with vines. Lighting: Primary light is the intense, flickering cyan/white light of the magic, volumetric haze/dust, subtle rim light on the stone texture. Camera: Medium close-up, fixed tripod, slow pull-out to a medium shot to reveal the portal's size, focus on the textural transition from stone to light. Grade: Moody, blue/cyan color palette, aggressive bloom/halation on the light, emphasis on the ancient texture."
+    },
+    "pair_65": {
+      "lay": "A person cooking pasta and adding parmesan cheese.",
+      "elaborate": "# PASTA PERFECTION - ITALIAN KITCHEN SLICE - Subject: Chef/home cook (casual, expressive hands). Action: Tossing spaghetti in a pan with sauce, followed by a close-up of a shower of finely grated Parmesan cheese falling onto the dish. Scene: Warm, rustic Italian kitchen, midday. Lighting: Soft, warm window light, strong highlight on the oil and cheese texture, deep, soft shadows. Camera: Medium close-up, handheld feel, slow-motion on the cheese falling, focus on the texture of the pasta and the cheese grate. Grade: Warm, high saturation (red/yellow/green), soft contrast, focus on the sensual texture of the food."
+    },
+    "pair_66": {
+      "lay": "The inside of a busy library with people reading.",
+      "elaborate": "# ARCHIVE OF KNOWLEDGE - ACADEMIC AMBIENCE - Subject: Students/academics (diverse, focused). Action: Subtle movements—turning pages, writing notes, silent walking between stacks. Scene: Massive, vaulted reading room (e.g., Trinity College Library), late afternoon. Lighting: Strong, warm light shafts streaming through high windows, illuminating dust motes and creating defined pools of light on the tables. Camera: Fixed tripod, elevated POV (balcony shot), capturing the scale and the light shafts, slow 10-second pull-in. Grade: Warm, sepia-toned, high contrast on the light shafts, focus on the verticality and the silence."
+    },
+    "pair_67": {
+      "lay": "A person bungee jumping off a huge bridge.",
+      "elaborate": "# FEARLESS PLUNGE - EXTREME VERTICALITY - Subject: Thrill-seeker (bright colored harness). Action: Freefall off a massive steel truss bridge, slow-motion on the initial drop. Scene: Deep river gorge, clear blue sky, mid-day. Lighting: Hard, direct sun, strong shadows, light glinting off the cable. Camera: Fixed, ultra-telephoto shot from the far side of the gorge, capturing the bridge structure and the fall, high-speed slow-motion on the stretch of the cord. Grade: High contrast, vibrant colors of the harness against the natural backdrop, focus on the sense of speed and height."
+    },
+    "pair_68": {
+      "lay": "A close up of a vinyl record spinning on a turntable.",
+      "elaborate": "# ANALOG SOUL - AUDITORY NOSTALGIA - Subject: Black vinyl LP (dust particles visible). Action: Smooth, consistent rotation, the needle dropping precisely into the groove. Scene: Minimalist living room, soft, warm light. Lighting: Strong, focused warm side light highlighting the grooves and dust on the vinyl surface. Camera: Extreme close-up, macro lens, fixed tripod, focus on the needle drop and the subtle texture of the vinyl, very shallow DOF. Grade: Warm, low-contrast, soft focus, subtle halation, focus on the mechanical precision and the nostalgic feel."
+    },
+    "pair_69": {
+      "lay": "A flock of parrots flying in a tropical forest.",
+      "elaborate": "# RAINBOW FLIGHT - TROPICAL VIVACITY - Subject: Large flock of Scarlet Macaws (vibrant red/blue/yellow plumage). Action: Fast, chaotic flight through the dense, sun-dappled canopy. Scene: Amazon rainforest, mid-morning, high humidity. Lighting: Patchy, high-contrast sunlight filtering through the leaves, strong color saturation. Camera: Handheld POV tracking shot (simulated), wide-angle, emphasis on the speed and the flash of color, high shutter speed to freeze the wing feathers. Grade: Hyper-saturated, deep green/red/blue palette, focus on the kinetic energy and the dense environment."
+    },
+    "pair_70": {
+      "lay": "A beautiful wedding proposal scene at night.",
+      "elaborate": "# MARRY ME UNDER STARS - ROMANTIC SUSPENSE - Subject: Couple (dressed formally, highly emotional). Action: Man kneeling, presenting a glowing diamond ring; woman's hand covers her mouth in surprise. Scene: Rooftop garden in a major city (NYC/London), deep night, string lights. Lighting: Soft, warm bistro string lights (bokeh background), single spotlight on the ring, deep background shadows. Camera: Medium close-up, fixed tripod, 85mm lens, focus on the ring and the woman's face, extremely shallow DOF, slow pull focus from the man's eyes to the ring. Grade: Warm, creamy bokeh, high contrast, soft vignette, focus on the intimate, emotional moment."
+    },
+    "pair_71": {
+      "lay": "A robot hand shaking a human hand.",
+      "elaborate": "# UNCANNY ALLIANCE - MAN/MACHINE THRESHOLD - Subject: Highly detailed, metallic robot hand (brushed titanium) clasping a detailed human hand (aged, scarred). Action: Slow, deliberate, firm handshake. Scene: Minimalist, futuristic laboratory, cool blue light. Lighting: Hard, directional blue light creating strong rim light on the metal and the skin texture, deep black background. Camera: Extreme close-up on the clasp, macro lens, fixed tripod, focus on the textural contrast (metal vs. skin), extremely slow movement. Grade: Cool, high-contrast, blue/silver monochromatic, hyper-sharp detail."
+    },
+    "pair_72": {
+      "lay": "Lightning striking a skyscraper in a storm.",
+      "elaborate": "# ZEUS'S FURY - URBAN CATASTROPHE - Subject: Massive, forked lightning bolt striking the very top of a specific, recognizable skyscraper. Action: Instantaneous, blinding flash followed by a rapid power flicker. Scene: Intense thunderstorm, deep night, city lights visible below. Lighting: Primary light is the blinding, intense white flash of the lightning (key), ambient blue light from the storm clouds. Camera: Fixed tripod, telephoto, focus on the exact moment of impact, high-speed slow-motion on the electrical discharge. Grade: High-contrast, moody blue/white palette, aggressive bloom on the lightning, cinematic widescreen aspect ratio."
+    },
+    "pair_73": {
+      "lay": "A dog catching a frisbee in the air.",
+      "elaborate": "# AIRBORNE HUNTER - CANINE ATHLETICS - Subject: Border Collie (hyper-focused expression, mid-jump). Action: Leaping high into the air, twisting to catch a spinning red frisbee perfectly. Scene: Sunny public park, wide-open grass field, mid-day. Lighting: Hard, direct sun, strong rim light on the dog's fur, subtle lens flare. Camera: Fixed tripod, low angle, high-speed slow-motion on the jump and the catch, wide-angle to capture the height and the field. Grade: High contrast, vibrant green grass, sharp focus on the dog's expression and the disc, subtle motion blur on the background."
+    },
+    "pair_74": {
+      "lay": "A time-lapse of traffic on a highway at night.",
+      "elaborate": "# VELOCITY STREAM - URBAN ABSTRACT - Subject: Headlights (yellow/white) and taillights (red) on a busy multi-lane highway. Action: Rapid, fluid movement of light streaks forming abstract patterns. Scene: Elevated highway interchange (e.g., Tokyo/LA), deep night, wet pavement. Lighting: Primary light from the vehicle trails and neon signs, reflections on the wet street. Camera: Fixed tripod, high POV, long-exposure time-lapse (simulated, extremely smooth light trails), focus on the geometric pattern. Grade: High saturation, vibrant red/yellow/blue light streaks, deep black background, focus on the abstract flow of light."
+    },
+    "pair_75": {
+      "lay": "A surfer riding a huge wave.",
+      "elaborate": "# AQUADYNAMIC GRACE - SURFING EXTREME - Subject: Solo surfer (minimalist board, focused expression). Action: Crouching, carving a massive, perfect 'pipeline' wave (barrel riding). Scene: Remote Pacific beach break (Teahupo'o style), clear, bright midday. Lighting: Strong, hard overhead sun, deep blue water, light shining through the wave's lip (creating a green/blue translucency). Camera: Water-level, fixed camera shot (inside the barrel), high-speed slow-motion on the water texture, wide-angle, emphasis on the speed and the clarity of the water. Grade: High saturation, vibrant blue/green water, hyper-sharp detail on the water texture."
+    },
+    "pair_76": {
+      "lay": "A butterfly emerging from its cocoon.",
+      "elaborate": "# METAMORPHIC REBIRTH - NATURE'S GENTLE RITUAL - Subject: Large Monarch butterfly (wet, detailed wings). Action: Slowly, deliberately emerging from its chrysalis, wings slowly unfolding and drying. Scene: Controlled studio environment, green leaf background. Lighting: Soft, directional sunlight, strong highlight on the iridescent wing scales, deep, soft shadows. Camera: Extreme macro lens, fixed tripod, high-speed slow-motion on the wing unfolding, focus on the delicate texture and the fluid movement. Grade: High saturation on the orange/black wings, soft-focus, emphasis on the fragility and the detail."
+    },
+    "pair_77": {
+      "lay": "A cowboy riding a horse across a plain.",
+      "elaborate": "# LONESOME RIDERS - WESTERN CINEMATICS - Subject: Silhouette of a cowboy (hat, duster, saddle bags) on a horse. Action: Slow, steady, rhythmic trot across a vast, empty plain. Scene: Monument Valley, late sunset (magic hour), red dust. Lighting: Strong, low, deep red/orange backlight creating a perfect, crisp silhouette, long shadows. Camera: Fixed tripod, telephoto lens, wide-angle to capture the scale of the valley, very slow dolly-in, emphasis on the silhouette and the dust trail. Grade: Deep red/orange/black palette, high contrast, classic Western aesthetic."
+    },
+    "pair_78": {
+      "lay": "A close up of a coffee cup with steam rising.",
+      "elaborate": "# MORNING RITUAL - HYGGE ATMOSPHERE - Subject: Ceramic mug (matte white, containing dark, black coffee). Action: Soft, persistent plume of steam rising slowly from the hot coffee surface. Scene: Wooden table, soft morning light from a window. Lighting: Strong, warm backlight illuminating the steam plume, soft fill light from the window, deep shadows. Camera: Extreme close-up, fixed tripod, focus on the texture of the mug and the fluid movement of the steam, very shallow DOF. Grade: Warm, low-contrast, soft focus, focus on the texture of the steam and the sense of warmth."
+    },
+    "pair_79": {
+      "lay": "People having a massive medieval battle.",
+      "elaborate": "# SHIELD WALL BREAK - MEDIEVAL CHAOS - Subject: Hundreds of heavily armored soldiers (Vikings/Saxons). Action: Two massive shield walls violently colliding, muddy ground, flying weapons/bodies. Scene: Misty, muddy battlefield, overcast day. Lighting: Diffuse, flat, high-key light, strong shadows only where bodies fall. Camera: Dynamic handheld POV shot (low to the ground, immersed in the action), wide-angle, high-speed slow-motion on the initial impact, aggressive camera shake. Grade: Desaturated, dark, earthy tones, heavy motion blur, film grain, focus on the violent chaos."
+    },
+    "pair_80": {
+      "lay": "A time-lapse of a flower garden growing.",
+      "elaborate": "# HORTICULTURAL SYMPHONY - GROWTH ACCELERATED - Subject: Diverse field of colorful wildflowers (tulips, daisies, poppies). Action: Rapid, synchronized growth from seed to full bloom, leaves unfurling, stems stretching. Scene: English cottage garden, continuous sunny day (simulated). Lighting: Constant, bright, diffuse light, no harsh shadows. Camera: Fixed tripod, medium wide shot, high-resolution time-lapse (simulated, very smooth growth movement), focus on the color transition. Grade: Hyper-saturated, vibrant colors, clean, sharp, focus on the organic, chaotic growth pattern."
+    },
+    "pair_81": {
+      "lay": "A group of cyclists racing through a forest.",
+      "elaborate": "# CANOPY DASH - MTB TRAIL RUSH - Subject: Three professional mountain bikers (full gear, dust flying). Action: High-speed descent on a narrow, root-covered forest singletrack. Scene: Pacific Northwest forest, patchy sunlight through dense canopy. Lighting: High-contrast sunlight filtering through the leaves, strong rim light on the dust plumes and helmets. Camera: Fast-moving gimbal/drone tracking shot, low-angle, wide-angle, high-speed slow-motion on the dust and dirt spray, aggressive camera shake. Grade: High contrast, deep green/brown palette, focus on the speed and the texture of the dirt/mud."
+    },
+    "pair_82": {
+      "lay": "A lighthouse beaming its light into a dark storm.",
+      "elaborate": "# VIGIL OF THE COAST - MARITIME DRAMA - Subject: Old, weathered stone lighthouse (striped pattern). Action: Powerful, synchronized light beam sweeping across a violently stormy, dark ocean. Scene: Massive waves crashing against the base, heavy rain, deep night. Lighting: Primary light is the intense, rhythmic white beam of the lighthouse, ambient blue light from the storm clouds. Camera: Fixed tripod, telephoto, focus on the beam cutting through the rain and the wave spray, slow pull-back to show the scale of the storm. Grade: High-contrast, moody blue/white palette, heavy volumetric rain/spray, focus on the power of the light."
+    },
+    "pair_83": {
+      "lay": "Someone playing chess in a park with a statue.",
+      "elaborate": "# STRATEGY AND SOLITUDE - ACADEMIC DRAMA - Subject: Two elderly men (focused, deliberate). Action: Slow, careful movement of a chess piece (e.g., knight) on a marble board. Scene: Quiet, formal European park, large bronze statue in the background, late afternoon. Lighting: Soft, directional golden hour light, long, soft shadows, subtle rim light on the chess pieces. Camera: Medium close-up, fixed tripod, 85mm lens, focus on the hands and the chess piece, very slow movement. Grade: Warm, slightly desaturated, high contrast, focus on the intellectual tension."
+    },
+    "pair_84": {
+      "lay": "A tiger swimming underwater.",
+      "elaborate": "# STRIPED PREDATOR - AQUATIC GRACE - Subject: Bengal Tiger (wet fur, eyes open). Action: Slow, powerful, controlled swimming movement underwater. Scene: Clear, deep jungle pool, heavy sunlight filtering down. Lighting: Strong, focused sunlight creating caustics on the tiger's fur, deep blue/green water. Camera: Underwater tracking shot, slow movement, wide-angle lens, emphasis on the texture of the fur and the power of the movement. Grade: High saturation on the orange/black stripes, clean blue water, hyper-sharp detail."
+    },
+    "pair_85": {
+      "lay": "A person writing code on a computer screen.",
+      "elaborate": "# DIGITAL ECHOES - CODING NOCTURNE - Subject: Hands typing rapidly on a backlit, futuristic keyboard. Action: Green/cyan code scrolling rapidly down a dark monitor screen. Scene: Dark, minimalist workspace, late night. Lighting: Primary light is the green/cyan glow from the monitor, strong reflection on the keyboard, deep background shadows. Camera: Extreme close-up on the keyboard and screen, fixed tripod, focus on the rapid finger movement and the scrolling text, subtle reflection on the eyes. Grade: Cool, dark aesthetic, green/cyan monochrome, high contrast, focus on the intensity and speed."
+    },
+    "pair_86": {
+      "lay": "A time-lapse of a massive industrial construction site.",
+      "elaborate": "# STEEL SCULPTURE - URBAN GROWTH - Subject: Multiple cranes, heavy machinery, rebar structures. Action: Rapid, synchronized movement of cranes lifting steel beams, construction workers moving quickly (blurred). Scene: Massive, downtown construction site, clear day. Lighting: Hard, direct sun, strong shadows, light glinting off the steel. Camera: Fixed tripod, elevated POV, high-resolution time-lapse (simulated, rapid movement), focus on the geometric pattern of the construction. Grade: High contrast, cool blue/grey palette, sharp detail on the steel texture, focus on the scale and complexity."
+    },
+    "pair_87": {
+      "lay": "A diver coming face to face with a shark.",
+      "elaborate": "# DEEP FEAR - OCEANIC ENCOUNTER - Subject: Great White Shark (massive, scarred, dark eyes) and a human diver (caged, subtle breathing bubbles). Action: Shark slowly circling the diver's cage, close pass. Scene: Deep, murky blue ocean, low visibility. Lighting: Soft, diffuse ambient light, subtle rim light on the shark's skin, deep blue background. Camera: Fixed medium shot from inside the cage, wide-angle, extremely slow movement of the shark, emphasis on the texture of the shark's skin and the diver's eye. Grade: Desaturated, moody blue/grey, high contrast, heavy water haze, focus on the suspense."
+    },
+    "pair_88": {
+      "lay": "A painter creating a mural on a wall.",
+      "elaborate": "# STREET CANVAS - ARTISTIC DYNAMISM - Subject: Street artist (hooded, focused, paint on clothes). Action: Rapid, energetic application of bright spray paint onto a large, exposed brick wall mural. Scene: Gritty, urban alleyway, late afternoon. Lighting: Strong, directional side light (sun) highlighting the spray mist and the paint texture, deep shadows. Camera: Medium close-up, handheld feel, slow-motion on the spray paint cloud, focus on the texture of the brick and the vivid color application. Grade: High saturation, high contrast, focus on the kinetic energy and the texture."
+    },
+    "pair_89": {
+      "lay": "A flock of flamingos taking off from a salt lake.",
+      "elaborate": "# PINK TAKEOFF - AVIAN SPECTACLE - Subject: Thousands of bright pink flamingos. Action: Simultaneous running, wing-flapping takeoff from the surface of a shallow, reflective salt lake. Scene: Vast, shallow pink/white salt flats (Bolivia/Kenya style), mid-day sun. Lighting: Hard, bright overhead sun, perfect reflection on the shallow water. Camera: Slow, smooth aerial tracking shot (drone simulation), wide-angle to capture the scale and the perfect reflection, high-speed slow-motion on the water spray. Grade: High-key, high saturation, vibrant pink/white/blue palette, focus on the mass movement and the reflection."
+    },
+    "pair_90": {
+      "lay": "A robot serving a drink in a bar.",
+      "elaborate": "# SILICON MIXOLOGIST - FUTURISTIC SERVICE - Subject: Sleek, humanoid bartender robot (glowing blue eyes). Action: Precisely mixing and pouring a multi-layered cocktail into an ornate glass. Scene: Minimalist, glowing futuristic bar, low light. Lighting: Primary light is the blue/cyan glow from the robot's eyes and the bar counter, strong rim light on the glass and liquid. Camera: Close-up on the hands and the drink, fixed tripod, very slow-motion on the liquid pour, focus on the fluid dynamics and the robot's metallic texture. Grade: Cool, high-contrast, blue/cyan palette, focus on the precision and the glow."
+    },
+    "pair_91": {
+      "lay": "A person meditating on a mountaintop.",
+      "elaborate": "# PEAK TRANQUILITY - ZENITH MEDITATION - Subject: Single figure (yoga/meditation posture, flowing fabric). Action: Sitting perfectly still in deep meditation, subtle cloth movement in the wind. Scene: Extreme mountain peak (Nepali Himalayas style), thick, low-lying cloud bank below. Lighting: Strong, high-key sun above the clouds, soft rim light on the figure and the fabric. Camera: Fixed tripod, telephoto, wide-angle to capture the figure small against the vast sky/clouds, slow, subtle rotation. Grade: High-key, soft focus, desaturated except for the sky blue, focus on the stillness and the scale."
+    },
+    "pair_92": {
+      "lay": "A close up of a record scratch effect.",
+      "elaborate": "# VINYL VIOLENCE - DJ SCRATCH MACRO - Subject: Hand (gloved, specific rings) aggressively scratching a black vinyl record back and forth on a turntable. Action: High-speed, aggressive, chaotic scratching motion, dust visible. Scene: Dark nightclub DJ booth, strobe light. Lighting: Primary light is a rapid, intense strobe light (simulated flicker), strong rim light on the hand and the vinyl surface. Camera: Extreme close-up, macro lens, fixed tripod, high-speed slow-motion, focus on the texture of the groove and the chaotic hand movement. Grade: High-contrast, monochromatic (black/white), strong motion blur, aggressive grain."
+    },
+    "pair_93": {
+      "lay": "A person running through a wheat field at sunset.",
+      "elaborate": "# GOLDEN ESCAPE - LYRICAL MOVEMENT - Subject: Young woman (white, flowing dress, laughing). Action: Running freely and rapidly through a tall wheat field, arms outstretched. Scene: Vast, rolling wheat field, late sunset (golden hour), light breeze. Lighting: Strong, low, golden backlight creating a halo effect around the figure and the wheat heads, long shadows. Camera: Low-angle tracking shot, high-speed slow-motion on the dress and wheat movement, wide-angle, subtle camera shake for realism. Grade: Warm, high-saturation gold/orange palette, creamy bokeh, focus on the sense of freedom."
+    },
+    "pair_94": {
+      "lay": "A spaceship landing in a dense forest.",
+      "elaborate": "# FIRST CONTACT - UNCANNY LANDING - Subject: Massive, triangular black alien spaceship (minimalist design). Action: Slowly descending into a clearing, causing a massive updraft of dirt and leaves. Scene: Dense, dark pine forest, twilight, volumetric mist. Lighting: Intense, directional white/orange light from the ship's landing thrusters, strong shadows, deep background. Camera: Fixed low-angle shot from the ground, wide-angle, slow-motion on the updraft and dust, aggressive lens flare from the thruster. Grade: Moody, high-contrast, blue/orange cinematic palette, heavy volumetric haze."
+    },
+    "pair_95": {
+      "lay": "A close up of a melting ice cube.",
+      "elaborate": "# FROZEN TEARS - TIME/TEXTURE STUDY - Subject: Perfectly clear, square ice cube (internal bubbles visible). Action: Slow, smooth time-lapse melting on a dark, wet surface, water trickling away. Scene: Controlled studio environment, black slate surface. Lighting: Strong, focused warm side light highlighting the crystal structure and the water movement. Camera: Extreme macro lens, fixed tripod, high-resolution time-lapse (simulated, very smooth melt), focus on the internal bubbles and the water texture. Grade: Cool blue/white focus on the ice, high contrast on the water/slate, hyper-sharp detail."
+    },
+    "pair_96": {
+      "lay": "A small mouse nibbling on a piece of cheese.",
+      "elaborate": "# KITCHEN INTRUDER - MACRO COMEDY - Subject: Tiny, field mouse (detailed fur, expressive whiskers). Action: Quickly, nervously nibbling on a massive block of Swiss cheese (cartoonish scale). Scene: Dark, dusty pantry floor, high-contrast shadows. Lighting: Single, hard-edged light source (simulated flashlight beam) highlighting the mouse and the cheese, deep background shadows. Camera: Extreme macro, fixed tripod, focus on the whiskers and the texture of the cheese, subtle, rapid head movements. Grade: Warm, moody, high contrast, focus on the scale difference and the textural detail."
+    },
+    "pair_97": {
+      "lay": "A person doing parkour jumping over rooftops.",
+      "elaborate": "# URBAN FREE RUN - FLOW STATE - Subject: Free runner/parkour athlete (minimalist clothing, focused). Action: Fast, fluid movement, leaping a large gap between two tall building rooftops. Scene: Hong Kong/Shanghai cityscape, clear, late morning. Lighting: Hard, direct sun, strong shadows, light reflecting off the glass. Camera: High-speed drone/gimbal tracking shot, parallel to the runner, wide-angle, high shutter speed, emphasis on the height and the speed. Grade: High contrast, cool city colors, clean, sharp, focus on the seamless flow of movement."
+    },
+    "pair_98": {
+      "lay": "A close up of a burning candle.",
+      "elaborate": "# WAX AND WICK - FLICKERING AMBIENCE - Subject: Single, white taper candle (slowly melting wax). Action: Small, rhythmic flicker of the flame, slow melt of the wax down the side. Scene: Dark, rustic wooden table, soft shadows. Lighting: Primary light is the warm, flickering glow of the flame, strong rim light on the wax structure, deep, soft shadows. Camera: Extreme close-up, fixed tripod, high-speed slow-motion on the flame flicker, focus on the fluid dynamics of the melting wax. Grade: Warm, low-contrast, soft focus, subtle halation, focus on the intimate, rhythmic movement."
+    },
+    "pair_99": {
+      "lay": "A beautiful model posing underwater.",
+      "elaborate": "# SIREN'S LAMENT - SUB-AQUATIC FASHION - Subject: Female model (long, flowing gown, ethereal look). Action: Slowly sinking/floating in a large pool, fabric slowly moving, eyes closed. Scene: Deep, clear, artificially lit pool (studio environment). Lighting: Strong, directional blue light from above, subtle caustics effect, strong movement of light through the water. Camera: Underwater tracking shot, very slow movement, 50mm lens, high-speed slow-motion on the fabric movement. Grade: Cool, high-saturation blue/cyan palette, focus on the fluid dynamics of the hair and fabric, dreamlike quality."
+    },
+    "pair_100": {
+      "lay": "A person making a snowball and throwing it.",
+      "elaborate": "# WINTER'S FURY - SNOWBALL AMBUSH - Subject: Hand (mittened, determined expression visible). Action: Rapid, high-speed formation of a snowball, followed by a powerful, slow-motion throw. Scene: Bright, fresh, powder-snow winter environment, clear, sunny day. Lighting: Hard, direct sun, strong shadows, intense reflections off the snow surface. Camera: Medium close-up, fixed tripod, high-speed slow-motion on the snow compression and the throw, wide-angle, emphasis on the texture of the snow spray. Grade: High-key, clean white/blue palette, hyper-sharp detail on the snow texture, aggressive motion blur on the arm movement."
+    }
+}

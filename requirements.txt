@@ -1,0 +1,12 @@
+torch==2.1.0
+transformers==4.42.4
+accelerate==1.11.0
+peft==0.11.1
+datasets==4.4.1
+numpy==1.26.4
+trl==0.8.6
+requests==2.35.0
+openai==2.8.1
+tqdm==4.67.1
+decord==0.6.0
+

@@ -1,0 +1,206 @@
+{
+    "pair_01": {
+      "lay": "2D cartoon: a fox reading under a tree",
+      "elaborate": "# Fox & Quiet Meadow — [0-3s] ACTION:{fox turns a page slowly}; CAMERA:{static MS}; SUBJECT:{small orange fox, round eyes, green scarf}; SCENE:{big tree, soft grass, drifting petals}; LIGHT:{warm noon sun, gentle rim}; STYLE:{watercolor flats, clean outlines, Ghibli-esque}; FX:{subtle paper-turn smear}; AUDIO:{light breeze, page rustle}"
+    },
+    "pair_02": {
+      "lay": "a rabbit trying to catch a butterfly, 2D cartoon",
+      "elaborate": "# Hopping for Wings — [0-4s] ACTION:{rabbit jumps after butterfly, misses each time}; CAMERA:{wide tracking pan R→L}; SUBJECT:{white rabbit with floppy ears; yellow butterfly}; SCENE:{sunny meadow; dandelions puffing}; LIGHT:{high-key pastel glow}; STYLE:{storybook pencil line, squishy timing}; FX:{puffs on landings}; AUDIO:{soft boings, tiny flutter}"
+    },
+    "pair_03": {
+      "lay": "2D cartoon frog plays a tiny drum",
+      "elaborate": "# Swamp Beat — [0-3s] ACTION:{frog taps mini drum with sticks, growing confidence}; CAMERA:{locked CU}; SUBJECT:{green frog, huge cheeks, tiny drum}; SCENE:{lily pad stage with spotlight}; LIGHT:{magenta rim + teal fill}; STYLE:{flat cel-shading, thick outlines}; FX:{vibration lines on drum}; AUDIO:{cute tap rhythms}"
+    },
+    "pair_04": {
+      "lay": "A princess waving from castle balcony, cartoon",
+      "elaborate": "# Balcony Greeting — [0-3s] ACTION:{princess waves slowly, hair sways}; CAMERA:{low-angle MS}; SUBJECT:{simple 2D princess, heart-shaped motifs}; SCENE:{castle balcony, banner fluttering}; LIGHT:{soft sunset orange}; STYLE:{storybook pastel, painterly textures}; FX:{sparkle accents}; AUDIO:{soft chimes}"
+    },
+    "pair_05": {
+      "lay": "robot watering a plant, 2D animation",
+      "elaborate": "# Robo-Gardener — [0-4s] ACTION:{robot tilts watering can, plant perks up}; CAMERA:{static front MS}; SUBJECT:{boxy friendly robot, sprout in pot}; SCENE:{simple workshop desk}; LIGHT:{warm overhead lamp}; STYLE:{flat cel, limited palette blues+greens}; FX:{watering drops arcs}; AUDIO:{gentle metallic clink}"
+    },
+    "pair_06": {
+      "lay": "2D cartoon, a squirrel stealing a cookie",
+      "elaborate": "# Cookie Heist — [0-4s] ACTION:{squirrel tiptoes, grabs cookie, victorious pose}; CAMERA:{CU→push-in}; SUBJECT:{small chubby squirrel}; SCENE:{kitchen counter, cookie jar}; LIGHT:{cool morning light from window}; STYLE:{2D toon, lively timing}; FX:{tiptoe bounce, crumb pop}; AUDIO:{comedic pluck}"
+    },
+    "pair_07": {
+      "lay": "2D cartoon clouds racing across the sky",
+      "elaborate": "# Sky Sprint — [0-3s] ACTION:{two cartoon clouds race, expressions exaggerated}; CAMERA:{wide upward pan}; SUBJECT:{fluffy clouds with faces}; SCENE:{blue gradient sky}; LIGHT:{bright top-light, soft bloom}; STYLE:{flat color, thick lineart}; FX:{wind streak lines}; AUDIO:{whoosh + cheering cloudlets}"
+    },
+    "pair_08": {
+      "lay": "2D animation, a dog chasing its tail",
+      "elaborate": "# Spin Cycle Pup — [0-3s] ACTION:{dog spins, pauses dizzy, resumes}; CAMERA:{MS orbit with parallax floor}; SUBJECT:{round cartoon dog}; SCENE:{simple living room rug}; LIGHT:{warm bounce lighting}; STYLE:{clean cel, squash & stretch}; FX:{spin blurs}; AUDIO:{whirl + playful bark}"
+    },
+    "pair_09": {
+      "lay": "2D cartoon baker decorating a cake",
+      "elaborate": "# Sweet Finishing Touch — [0-4s] ACTION:{baker pipes frosting swirls}; CAMERA:{top-down→CU}; SUBJECT:{cute chibi baker}; SCENE:{kitchen counter, sprinkles jar}; LIGHT:{soft white diffuse}; STYLE:{round shapes, pastel palette}; FX:{sparkly accents on frosting}; AUDIO:{gentle piping sound}"
+    },
+    "pair_10": {
+      "lay": "a penguin slipping on ice, cartoon",
+      "elaborate": "# Oops on Ice — [0-4s] ACTION:{penguin waddles, slips, slides gracefully}; CAMERA:{tracking shot}; SUBJECT:{tiny penguin with scarf}; SCENE:{icy lake with reflections}; LIGHT:{cold blue backlight}; STYLE:{clean 2D cel}; FX:{slide streaks}; AUDIO:{squeaky slip, gentle thump}"
+    },
+  
+    "pair_11": {
+      "lay": "2D cartoon owl blinking sleepily",
+      "elaborate": "# Sleepy Perch — [0-3s] ACTION:{owl blinks slowly, sways a bit}; CAMERA:{locked CU}; SUBJECT:{round owl with fluffy chest}; SCENE:{tree branch at dusk}; LIGHT:{lavender dusk gradient}; STYLE:{pastel cel, soft lines}; FX:{tiny star twinkles}; AUDIO:{soft hoot}"
+    },
+    "pair_12": {
+      "lay": "a cat knocking a vase off a shelf, 2D style",
+      "elaborate": "# Feline Mischief — [0-4s] ACTION:{cat pushes vase, slow suspense, crash}; CAMERA:{MS with hold-on-object}; SUBJECT:{striped cat}; SCENE:{bookshelf with vase}; LIGHT:{warm home light}; STYLE:{2D expressive exaggeration}; FX:{impact shards, motion lines}; AUDIO:{tink, crash}"
+    },
+    "pair_13": {
+      "lay": "a dragon sneezing fire, 2D",
+      "elaborate": "# Fire Sneeze — [0-3s] ACTION:{dragon sniffs, sneeze erupts in tiny flame}; CAMERA:{low-angle CU}; SUBJECT:{cute baby dragon}; SCENE:{cave entrance}; LIGHT:{fire glow bounce}; STYLE:{cel-shading, chunky lines}; FX:{mini fire burst}; AUDIO:{sneeze + puff flame}"
+    },
+    "pair_14": {
+      "lay": "2D cartoon witch stirring a potion",
+      "elaborate": "# Cauldron Swirl — [0-4s] ACTION:{witch stirs, potion glows, bubbles rise}; CAMERA:{CU→slow arc}; SUBJECT:{friendly witch}; SCENE:{cozy cottage lab}; LIGHT:{green cauldron glow}; STYLE:{storybook cartoon}; FX:{glowing bubbles}; AUDIO:{bubbling + spoon clink}"
+    },
+    "pair_15": {
+      "lay": "chef flipping a pancake 2D animation",
+      "elaborate": "# Perfect Flip — [0-3s] ACTION:{chef tosses pancake high, lands perfectly}; CAMERA:{dynamic tilt up}; SUBJECT:{chibi chef}; SCENE:{kitchen stove}; LIGHT:{warm yellow fill}; STYLE:{thin-line cartoon, overshoot/anticipation timing}; FX:{smear frames on flip}; AUDIO:{sizzle}"
+    },
+    "pair_16": {
+      "lay": "2d cartoon: a baby bird learning to fly",
+      "elaborate": "# First Flutter — [0-4s] ACTION:{bird flaps awkwardly, lifts a bit}; CAMERA:{low-angle MS}; SUBJECT:{fluffy chick}; SCENE:{nest on branch}; LIGHT:{sunrise peach tones}; STYLE:{painterly cel}; FX:{feather puffs}; AUDIO:{chirps}"
+    },
+    "pair_17": {
+      "lay": "2D fox painting on canvas",
+      "elaborate": "# Artful Fox — [0-3s] ACTION:{fox paints, flicks brush playfully}; CAMERA:{CU over-shoulder}; SUBJECT:{fox with beret}; SCENE:{small studio}; LIGHT:{soft morning side-light}; STYLE:{flat pastel, ink lines}; FX:{paint splatter}; AUDIO:{brush swish}"
+    },
+    "pair_18": {
+      "lay": "cartoon crab playing a ukulele",
+      "elaborate": "# Beachside Jam — [0-4s] ACTION:{crab strums ukulele cheerfully}; CAMERA:{static MS}; SUBJECT:{red crab}; SCENE:{sunny beach, waves}; LIGHT:{warm sunlight}; STYLE:{cel-shading, bold colors}; FX:{sand puff tap}; AUDIO:{island strums}"
+    },
+    "pair_19": {
+      "lay": "2D whale blowing heart-shaped water",
+      "elaborate": "# Love Splash — [0-3s] ACTION:{whale surfaces, blows heart spray}; CAMERA:{wide ocean shot}; SUBJECT:{cute blue whale}; SCENE:{calm sea}; LIGHT:{golden-hour}; STYLE:{soft cel, painterly sea}; FX:{water heart sparkle}; AUDIO:{splash}"
+    },
+    "pair_20": {
+      "lay": "cartoon mouse cooking soup",
+      "elaborate": "# Tiny Chef — [0-4s] ACTION:{mouse stirs pot on tiny stove}; CAMERA:{CU}; SUBJECT:{gray mouse with apron}; SCENE:{mini kitchen}; LIGHT:{warm orange}; STYLE:{storybook pastel}; FX:{steam curls}; AUDIO:{bubble simmer}"
+    },
+  
+    "pair_21": {
+      "lay": "alien waving hello, cartoon",
+      "elaborate": "# Cosmic Greeting — [0-3s] ACTION:{alien waves cheerfully}; CAMERA:{static MS}; SUBJECT:{green alien with antenna}; SCENE:{spaceship window view of stars}; LIGHT:{neon rim}; STYLE:{flat neon palette}; FX:{tiny sparkles}; AUDIO:{sci-fi blip}"
+    },
+    "pair_22": {
+      "lay": "2D witch's cat flying on a broom",
+      "elaborate": "# Midnight Ride — [0-4s] ACTION:{cat zooms on broom, wind flapping}; CAMERA:{tracking shot}; SUBJECT:{black cat, broom}; SCENE:{moonlit sky}; LIGHT:{cool moon backlight}; STYLE:{cel, fast smear frames}; FX:{trail streaks}; AUDIO:{wind woosh}"
+    },
+    "pair_23": {
+      "lay": "shy monster peeking behind a door, 2D animation",
+      "elaborate": "# Peek-a-Monster — [0-3s] ACTION:{monster peeks out timidly}; CAMERA:{locked CU}; SUBJECT:{round fluffy monster}; SCENE:{bedroom door frame}; LIGHT:{warm lamp}; STYLE:{2D soft outlines}; FX:{eye-shine blink}; AUDIO:{soft squeak}"
+    },
+    "pair_24": {
+      "lay": "2D robot learning to dance",
+      "elaborate": "# RoboGroove — [0-4s] ACTION:{robot attempts dance steps, improves}; CAMERA:{static MS}; SUBJECT:{retro robot}; SCENE:{garage floor}; LIGHT:{cool top light}; STYLE:{toon cel}; FX:{small sparks}; AUDIO:{electro beeps}"
+    },
+    "pair_25": {
+      "lay": "cartoon: a bear eating honey",
+      "elaborate": "# Sweet Bear — [0-3s] ACTION:{bear dips paw in honey, licks happily}; CAMERA:{medium CU}; SUBJECT:{brown bear}; SCENE:{forest stump}; LIGHT:{warm noon light}; STYLE:{cartoon round shapes}; FX:{sticky shine}; AUDIO:{lick, buzz}"
+    },
+    "pair_26": {
+      "lay": "cartoon dolphin drawing shapes in the water",
+      "elaborate": "# Water Doodles — [0-4s] ACTION:{dolphin uses nose to draw heart in water trails}; CAMERA:{wide tracking}; SUBJECT:{blue dolphin}; SCENE:{tropical sea}; LIGHT:{bright warm}; STYLE:{flat cel}; FX:{glowing water trails}; AUDIO:{whoosh}"
+    },
+    "pair_27": {
+      "lay": "a hedgehog rolling down a hill, 2D cartoon",
+      "elaborate": "# Hill Roll — [0-3s] ACTION:{hedgehog rolls joyfully, stops dizzy}; CAMERA:{downward-follow pan}; SUBJECT:{spiky hedgehog}; SCENE:{green hill}; LIGHT:{sunny warm}; STYLE:{clean toon lines}; FX:{motion spin lines}; AUDIO:{roll rumble}"
+    },
+    "pair_28": {
+      "lay": "2D crow wearing a crown",
+      "elaborate": "# Royal Crow — [0-3s] ACTION:{crow struts proudly}; CAMERA:{CU slow push}; SUBJECT:{black crow + tiny gold crown}; SCENE:{castle courtyard}; LIGHT:{sunlit glint on crown}; STYLE:{notched ink lines}; FX:{sparkle on crown}; AUDIO:{caw}"
+    },
+    "pair_29": {
+      "lay": "2d animated pirate parrot scanning the horizon",
+      "elaborate": "# Lookout Parrot — [0-4s] ACTION:{parrot peers with spyglass}; CAMERA:{low-angle MS}; SUBJECT:{colorful parrot with pirate hat}; SCENE:{ship mast}; LIGHT:{harsh sunlight}; STYLE:{2D cel}; FX:{sea spray specks}; AUDIO:{waves + squawk}"
+    },
+    "pair_30": {
+      "lay": "2D animation: little ghost trying to blow out a candle",
+      "elaborate": "# Ghostly Puff — [0-3s] ACTION:{ghost blows, candle flickers but stays lit}; CAMERA:{static CU}; SUBJECT:{cute ghost}; SCENE:{dark room}; LIGHT:{candle warm glow}; STYLE:{soft pastel cel}; FX:{gentle flame flutter}; AUDIO:{soft puff}"
+    },
+  
+    "pair_31": {
+      "lay": "2D tiger cub playing with yarn",
+      "elaborate": "# Yarn Trouble — [0-4s] ACTION:{tiger cub tangles itself in yarn}; CAMERA:{locked MS}; SUBJECT:{orange tiger cub}; SCENE:{cozy floor mat}; LIGHT:{warm ambient}; STYLE:{cartoon bounce}; FX:{yarn unravel arcs}; AUDIO:{purr + playful rustle}"
+    },
+    "pair_32": {
+      "lay": "a magical book opening itself - 2D cartoon",
+      "elaborate": "# Mystic Pages — [0-3s] ACTION:{book opens, glowing symbols lift}; CAMERA:{CU}; SUBJECT:{ancient cartoon book}; SCENE:{library desk}; LIGHT:{glow from pages}; STYLE:{ink + watercolor flats}; FX:{magical glyphs}; AUDIO:{soft chimes}"
+    },
+    "pair_33": {
+      "lay": "sunflower turning toward the sun, cartoon",
+      "elaborate": "# Sun Seek — [0-3s] ACTION:{sunflower rotates happily}; CAMERA:{CU upward angle}; SUBJECT:{smiling sunflower}; SCENE:{field}; LIGHT:{golden light rays}; STYLE:{2D pastel}; FX:{tiny pollen sparkle}; AUDIO:{soft hum}"
+    },
+    "pair_34": {
+      "lay": "2D snail carrying a leaf umbrella",
+      "elaborate": "# Rainy Snail — [0-4s] ACTION:{snail moves under leaf while raindrops fall}; CAMERA:{side MS}; SUBJECT:{snail with green leaf}; SCENE:{rainy garden path}; LIGHT:{soft gray overcast}; STYLE:{storybook cel}; FX:{raindrop splashes}; AUDIO:{pitter-patter}"
+    },
+    "pair_35": {
+      "lay": "chipmunk brushing its teeth, 2D cartoon",
+      "elaborate": "# Morning Routine — [0-3s] ACTION:{chipmunk brushes vigorously}; CAMERA:{CU mirror POV}; SUBJECT:{chipmunk}; SCENE:{tiny bathroom}; LIGHT:{warm lamp}; STYLE:{clean outlines}; FX:{foam bubbles}; AUDIO:{brush scrubs}"
+    },
+    "pair_36": {
+      "lay": "cartoon fish blowing bubbles",
+      "elaborate": "# Bubble Play — [0-3s] ACTION:{fish blows bubbles, pops one with fin}; CAMERA:{locked MS}; SUBJECT:{small pink fish}; SCENE:{underwater coral}; LIGHT:{soft caustics}; STYLE:{flat pastel watercolors}; FX:{bubble shimmer}; AUDIO:{blup blup}"
+    },
+    "pair_37": {
+      "lay": "2D magician pulling a rabbit from a hat",
+      "elaborate": "# Ta-Da! — [0-4s] ACTION:{magician lifts rabbit, rabbit looks confused}; CAMERA:{front MS}; SUBJECT:{magician + rabbit}; SCENE:{stage with red curtain}; LIGHT:{spotlight}; STYLE:{cel shading}; FX:{sparkle burst}; AUDIO:{magic chime}"
+    },
+    "pair_38": {
+      "lay": "2d cartoon: bear cub trying to climb a tree",
+      "elaborate": "# First Climb — [0-4s] ACTION:{bear cub attempts climb, slips adorably}; CAMERA:{low-angle MS}; SUBJECT:{brown cub}; SCENE:{forest tree}; LIGHT:{dappled sun}; STYLE:{soft lines}; FX:{leaf rustle}; AUDIO:{tiny grunt}"
+    },
+    "pair_39": {
+      "lay": "2D fox juggling apples",
+      "elaborate": "# Apple Juggle — [0-3s] ACTION:{fox juggles 3 apples with flair}; CAMERA:{locked MS}; SUBJECT:{fox}; SCENE:{orchard}; LIGHT:{sunny warm}; STYLE:{flat cel}; FX:{apple trails}; AUDIO:{bouncy taps}"
+    },
+    "pair_40": {
+      "lay": "a friendly ghost reading a bedtime story, 2d style",
+      "elaborate": "# Ghost Storytime — [0-4s] ACTION:{ghost flips pages, smiles}; CAMERA:{MS}; SUBJECT:{gentle ghost and storybook}; SCENE:{dim cozy room}; LIGHT:{book glow}; STYLE:{pastel 2D}; FX:{floating dust motes}; AUDIO:{soft lullaby hum}"
+    },
+  
+    "pair_41": {
+      "lay": "cartoon elephant watering flowers",
+      "elaborate": "# Trunk Garden — [0-3s] ACTION:{elephant sprays water over flowers}; CAMERA:{wide MS}; SUBJECT:{small blue elephant}; SCENE:{backyard garden}; LIGHT:{bright sunshine}; STYLE:{clean cel}; FX:{water sparkles}; AUDIO:{spray sound}"
+    },
+    "pair_42": {
+      "lay": "2D wolf howling at a tiny moon",
+      "elaborate": "# Mini Moon Howl — [0-3s] ACTION:{wolf howls dramatically at tiny moon}; CAMERA:{low-angle CU}; SUBJECT:{cute wolf}; SCENE:{hilltop}; LIGHT:{cool night}; STYLE:{toon lines}; FX:{echo rings}; AUDIO:{tiny howl}"
+    },
+    "pair_43": {
+      "lay": "a panda sipping tea - 2D cartoon",
+      "elaborate": "# Tea Time Panda — [0-3s] ACTION:{panda lifts cup, sips peacefully}; CAMERA:{CU}; SUBJECT:{round panda}; SCENE:{bamboo grove}; LIGHT:{soft green ambient}; STYLE:{flat watercolor}; FX:{steam swirl}; AUDIO:{sip slurp}"
+    },
+    "pair_44": {
+      "lay": "chick hatching from egg, cartoon",
+      "elaborate": "# Hello World — [0-4s] ACTION:{egg cracks open, chick pops out}; CAMERA:{locked CU}; SUBJECT:{yellow chick}; SCENE:{nest straw}; LIGHT:{warm sunrise}; STYLE:{soft cel shading}; FX:{egg shards pop}; AUDIO:{chirp}"
+    },
+    "pair_45": {
+      "lay": "2D turtle painting a seashell",
+      "elaborate": "# Shell Art — [0-3s] ACTION:{turtle carefully paints patterns}; CAMERA:{top-down CU}; SUBJECT:{turtle}; SCENE:{beach blanket}; LIGHT:{warm daylight}; STYLE:{simple cartoon}; FX:{paint sparkle}; AUDIO:{brush strokes}"
+    },
+    "pair_46": {
+      "lay": "a 2d animated sheep bouncing on a cloud",
+      "elaborate": "# Cloud Bounce — [0-3s] ACTION:{sheep jumps happily on cloud}; CAMERA:{wide sky shot}; SUBJECT:{fluffy sheep}; SCENE:{blue sky}; LIGHT:{bright soft}; STYLE:{floating pastel}; FX:{cloud poofs}; AUDIO:{boing}"
+    },
+    "pair_47": {
+      "lay": "duck wearing a raincoat splashing in puddles, 2D cartoon",
+      "elaborate": "# Puddle Fun — [0-4s] ACTION:{duck jumps in puddle, water arcs}; CAMERA:{low MS}; SUBJECT:{yellow duck + blue raincoat}; SCENE:{rainy street}; LIGHT:{overcast}; STYLE:{cel pastel}; FX:{splash arcs}; AUDIO:{splash + quack}"
+    },
+    "pair_48": {
+      "lay": "2D dragon lighting candles gently",
+      "elaborate": "# Gentle Flames — [0-3s] ACTION:{dragon exhales tiny flame to light candles}; CAMERA:{CU}; SUBJECT:{tiny dragon}; SCENE:{dark interior room}; LIGHT:{warm flame glows}; STYLE:{storybook lines}; FX:{candle flickers}; AUDIO:{small fire puff}"
+    },
+    "pair_49": {
+      "lay": "a wizard’s hat growing legs and walking away, 2d",
+      "elaborate": "# Hat Escape — [0-4s] ACTION:{wizard's hat sprouts legs, walks off}; CAMERA:{wide→CU follow}; SUBJECT:{hat with tiny legs}; SCENE:{wizard study}; LIGHT:{magical purple bounce}; STYLE:{cel-shaded whimsical}; FX:{spark trail}; AUDIO:{pat-pat footsteps}"
+    },
+    "pair_50": {
+      "lay": "2d cartoon: a sleepy sun rising slowly",
+      "elaborate": "# Yawning Dawn — [0-3s] ACTION:{sun yawns, rises sluggishly}; CAMERA:{wide horizon shot}; SUBJECT:{sun with face}; SCENE:{rolling hills}; LIGHT:{soft peach dawn}; STYLE:{2D pastel}; FX:{light rays bloom}; AUDIO:{yawn + birds chirp}"
+    }
+}  
