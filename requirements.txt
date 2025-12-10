@@ -9,4 +9,5 @@ requests==2.35.0
 openai==2.8.1
 tqdm==4.67.1
 decord==0.6.0
-
+matplotlib==3.10.7
+pandas==2.3.3
