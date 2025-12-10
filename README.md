@@ -1,0 +1,55 @@
+# Prompt Enhancer LLM for Video Generation
+
+Final project for MIT [6.7920](https://web.mit.edu/6.7920/www/): Reinforcement Learning
+
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97HuggingFace-dariakryvosheieva%2Fvideo--prompt--enhancer-yellow)](https://huggingface.co/dariakryvosheieva/video-prompt-enhancer)
+
+[![Sora](https://img.shields.io/badge/Sora-daria--k-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0idXJsKCNhKSIgZD0iTTE5LjUwMyAwSDQuNDk2QTQuNDk2IDQuNDk2IDAgMCAwIDAgNC40OTZ2MTUuMDA3QTQuNDk2IDQuNDk2IDAgMCAwIDQuNDk2IDI0aDE1LjAwN0E0LjQ5NiA0LjQ5NiAwIDAgMCAyNCAxOS41MDNWNC40OTZBNC40OTYgNC40OTYgMCAwIDAgMTkuNTAzIDAiLz48cGF0aCBmaWxsPSJ1cmwoI2IpIiBkPSJNOS43MjYgMTEuMzZhLjMwNi4zMDYgMCAxIDEgMCAuNjEyLjMwNi4zMDYgMCAwIDEgMC0uNjEyIi8+PHBhdGggZmlsbD0idXJsKCNiKSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNOC40MDggOS41NjFxLjA1LS4wMTQuMDk2LjAzM2wuNDQuNDQ3LjAyMS4wMTZxLjAxNC4wMDguMDI0LjAxbC42MDguMTU3cS4wNjMuMDE2LjA3Ny4wNjZjLjAxNC4wNS0uMDAyLjA2Ny0uMDMzLjA5OGwtLjQ0Ny40MzktLjAxNi4wMjItLjAxLjAyNC0uMTU3LjYwN3EtLjAxNS4wNjMtLjA2Ny4wNzdjLS4wNTIuMDE0LS4wNjYtLjAwMi0uMDk2LS4wMzNsLS40NC0uNDQ2YS4xLjEgMCAwIDAtLjA0Ny0uMDI3bC0uNjA3LS4xNTZxLS4wNjMtLjAxNS0uMDc3LS4wNjhjLS4wMTQtLjA1My4wMDItLjA2Ni4wMzMtLjA5NmwuNDQ3LS40NC4wMTYtLjAyMS4wMS0uMDI1LjE1Ny0uNjA3cS4wMTUtLjA2My4wNjgtLjA3NyIvPjxwYXRoIGZpbGw9InVybCgjYikiIGQ9Ik0xNC44NyA5Ljk4MmEuMzA3LjMwNyAwIDEgMSAwIC42MTMuMzA3LjMwNyAwIDAgMSAwLS42MTMiLz48ZyBmaWxsPSJ1cmwoI2IpIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0xMy41NTMgOC4xODdxLjA1Mi0uMDE0LjA5Ny4wMzJsLjQzOC40NDhhLjEuMSAwIDAgMCAuMDQ2LjAyNmwuNjA2LjE1OHEuMDYzLjAxNS4wNzcuMDY4Yy4wMTQuMDUzLS4wMDIuMDY1LS4wMzQuMDk1bC0uNDQ3LjQzOGEuMS4xIDAgMCAwLS4wMjcuMDQ2bC0uMTU3LjYwNXEtLjAxNi4wNjMtLjA2OC4wNzdjLS4wNTIuMDE0LS4wNjYtLjAwMi0uMDk2LS4wMzNsLS40MzctLjQ0N2EuMS4xIDAgMCAwLS4wNDctLjAyN2wtLjYwNS0uMTU4cS0uMDYzLS4wMTUtLjA3Ny0uMDY3Yy0uMDE0LS4wNTIuMDAyLS4wNjYuMDMzLS4wOTZsLjQ0Ny0uNDM3YS4xLjEgMCAwIDAgLjAxNy0uMDIybC4wMS0uMDI1LjE1OC0uNjA1cS4wMTYtLjA2My4wNjYtLjA3NiIvPjxwYXRoIGQ9Ik05LjA2NSAzLjM0M2E0LjYgNC42IDAgMCAxIDIuMjg0LS4zMTFxMS41LjE3MiAyLjY3MyAxLjI3NGEuMDkuMDkgMCAwIDAgLjA4LjAyMiA0LjU1IDQuNTUgMCAwIDEgMy4wNDYuMjc1bC4wNDcuMDIxLjExNi4wNThhNC41OCA0LjU4IDAgMCAxIDIuMTg4IDIuMzk4cS4zMTMuNzY1LjMxNiAxLjU5NS4wMjMuNjIyLS4xMzUgMS4yMjRhLjEyLjEyIDAgMCAwIC4wMy4xMTYgNC41IDQuNSAwIDAgMSAxLjE4MyAyLjE2OCA0LjU2IDQuNTYgMCAwIDEtLjg4NyAzLjg1NWwtLjEzNi4xNjZhNC41NSA0LjU1IDAgMCAxLTIuMjAxIDEuMzg3LjEyLjEyIDAgMCAwLS4wOC4wNzdjLS4xOTEuNTUxLS4zODQgMS4wMjMtLjc0MSAxLjQ5NEE0LjU0IDQuNTQgMCAwIDEgMTMuMTM3IDIxcS0xLjc4MS0uMDA5LTMuMTU3LTEuMzAyYS4xMS4xMSAwIDAgMC0uMTA2LS4wMjRjLS4zODguMTI1LS43OC4xNDQtMS4yMDMuMTM5YTQuNDQgNC40NCAwIDAgMS0xLjk0Ni0uNDY3IDQuNTQgNC41NCAwIDAgMS0xLjYxLTEuMzM2Yy0uMTUyLS4yMDEtLjMwMy0uMzkxLS40MTMtLjYxNmE2IDYgMCAwIDEtLjM3LS45NjEgNC42IDQuNiAwIDAgMS0uMDEzLTIuMjk5LjEuMSAwIDAgMCAuMDA1LS4wNTUuMS4xIDAgMCAwLS4wMjctLjA0OCA0LjUgNC41IDAgMCAxLTEuMDM1LTEuNjUxIDMuOSAzLjkgMCAwIDEtLjI1LTEuMTkyIDUuMiA1LjIgMCAwIDEgLjE0MS0xLjZxLjUwNi0xLjY2OCAxLjkzMy0yLjYxOS4zMTgtLjIxLjYwMS0uMzI5YTYgNiAwIDAgMSAuNjQ2LS4yMjguMS4xIDAgMCAwIC4wNjUtLjA2NSA0LjUgNC41IDAgMCAxIC44MjgtMS42MTYgNC41NCA0LjU0IDAgMCAxIDEuODM5LTEuMzg4bS43MjMgNS43MzVjLS44NjUtLjYxNC0yLjA0OC0uMzEtMi40ODMuNjU2cS0uMzM5Ljc1LS4xMzMgMS41OGwuMTA4LjQ0LjE5NS43MTJhMi45IDIuOSAwIDAgMCAuNDU5IDEuMDk2bC4wMjIuMDMyYTMgMyAwIDAgMCAuMzk0LjM4OWMxLjAzOS44NTQgMi40NTYuMjg0IDIuNzM5LS45OTJsLjAzNy0uMTYuMDEtLjA2YTIuMyAyLjMgMCAwIDAtLjA0LS44ODIgMzYgMzYgMCAwIDAtLjQxLTEuNTE3cS0uMjQ0LS44My0uODk4LTEuMjk0bTUuMzI4LTEuMjM1Yy0uNjQ2LS42LTEuNjQzLS42MjMtMi4yODUtLjAxOXEtLjM3Ni4zNTMtLjUyMy45NDlhMi42IDIuNiAwIDAgMCAwIDEuMjI2bC4wMS4wNC4wNDIuMTM2LjI2NC45My4yMDQuNjM4Yy40My45MDUgMS4zNjUgMS41NTYgMi4zODIgMS4xNDEuOTQ2LS4zODYgMS4yMy0xLjUwNyAxLjAxNi0yLjQxNWExMCAxMCAwIDAgMC0uMTA1LS40MUwxNS44IDguODhhMi40IDIuNCAwIDAgMC0uNjg0LTEuMDM3Ii8+PC9nPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iYSIgeDE9IjEyIiB4Mj0iMTIiIHkxPSIwIiB5Mj0iMjQiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjMDEyNjU5Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDk2OGRhIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImIiIHgxPSI5Ljg1OSIgeDI9IjE0LjIxOSIgeTE9IjMiIHkyPSIyMS4wMTciIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjZmZmIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjNmJiNmZlIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PC9zdmc+&logoColor=white)](https://sora.chatgpt.com/profile/daria-k)
+
+## Overview
+
+This repo contains training data, training scripts, and inference scripts for the project, which trained an LLM to translate simple video generation prompts into detailed, professional-grade prompts, eliminating the need for prompt engineering and bringing high-quality AI-generated videos to ordinary users.
+
+The model was post-trained from [Qwen2.5-14B-Instruct](https://huggingface.co/Qwen/Qwen2.5-14B-Instruct) with LoRA via a two-stage procedure:
+1. **Next-token prediction** on synthetic pairs of simple and corresponding detailed prompts;
+2. **Online RL**:
+
+    2.1. The model accepts a simple prompt and generates a detailed prompt;
+   
+    2.2. A Sora video is generated based on the detailed prompt;
+   
+    2.3. The video and its alignment with the simple prompt are scored using [VisionReward](https://github.com/zai-org/VisionReward/tree/main);
+   
+    2.4. The model is updated via PPO.
+
+## Setup
+
+1. Clone the repo: `git clone https://github.com/dariakryvosheieva/video-prompt-enhancer.git`
+2. Create a virtual environment: `python -m venv .venv`
+3. Activate the environment: `. .venv/bin/activate`
+4. Install packages: `pip install -r requirements.txt`
+
+## Repo Contents
+
+* `data_stage1/`: (simple, detailed) prompt pairs for Stage 1
+* `data_stage2/`: simple prompts for the Stage 2
+* `out/`:
+  * `qwen2.5-14b-prompt-enhancer-lora/`: checkpoint from Stage 1 (not included)
+  * `qwen2.5-14b-prompt-enhancer-lora-stage2/`: checkpoint from Stage 2 (not included)
+  * `video_cache/`: Sora videos generated in Stage 2
+  * `stage2_traces.json`: a log of simple prompts sampled at each step, detailed prompts generated, and rewards earned
+* `VisionReward_video/`: files required for VisionReward scoring
+* `train_stage1.py`: training script for Stage 1
+* `train_stage2.py`: training script for Stage 2
+* `qualitative_eval.py`: inference from local checkpoints
+* `hf_inference.py`: inference from the HF model
+* `job.sh`: shell script for running training/inference on GPU
+
+## Tech Stack
+
+* PEFT
+* PyTorch
+* Sora API
+* transformers
+* TRL
+* VisionReward
